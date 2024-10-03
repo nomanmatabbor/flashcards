@@ -1,0 +1,21 @@
+Square-wave voltammetry	large amplitude
+reverse pulse means	 reverse reaction
+The waveform applied to the working electrode 	is a symmetric square wave superimposed on a base staircase potential
+Current is sampled twice during	 each square-wave cycle: One at the end of the forward pulse (i1) and one at the end of the reverse pulse (i2)
+diagram	img(https://blogger.googleusercontent.com/img/a/AVvXsEjQnQBV7sAUm4xnTxXZv5-WalDGutpf5pNOJo0ZHm4HpxusAgBvDx_mcbTcuA7J8zKfhyS04XC7R3GgTPjDgZtqEvJD-o0PPSBOkVvVdclfzMUXWn3-9U7i1-DX4KPbIf4fPZY4H1Jk_rQZoAuUohdzxQ6E0QVRExXPn-yTVjDvEC6xoUkPvbqba_a1Dthy)
+modulation amplitude	is very large
+The net current (i1 – i2) is plotted versus	 the base staircase potential
+the voltammogram is 	a peak-shaped voltammogram
+The peak-shaped voltammogram is symmetric about the	 half-wave potential
+Peak current is proportional	 to the concentration
+The net current is larger than	 the forward or reverse currents img(https://blogger.googleusercontent.com/img/a/AVvXsEjKMKszZS3uprC3RcFg7PtU2ipJrIS0RbwwhLtN7kVWw40l4-qChFRImlWIH1xfQ-9ZuMhGdSATseJz_wR56Jha4QrBjTTOqbzlVVxW5JbEaDAqjASxUDnW0iN1aMGzGKr-buonPvxQC8cLKg5HfkPMWbdtoey9fkpfoki2kutU1ShW974z_SRG1tmwpovy)
+Higher sensitivity than 	differential-pulse in which reverse current is not used
+for reversible systems currents	 4 times higher
+for irreversible systems,	currents are 3.3 times higher 
+Low detection limits 	up to 10-8 M
+major advantage 	 speed, complete voltammogram can be recorded within a couple of seconds
+advantageous in 	batch and flow analytical operations, 
+can resolve 	neighboring peaks in chromatography and capillary electrophoresis
+Reduced analysis time	 due to higher scan rates (few seconds compared to ~3 minutes for differential pulse)
+The entire voltammogram is recorded on a	 single mercury drop
+SWV may be used for 	kinetic studies

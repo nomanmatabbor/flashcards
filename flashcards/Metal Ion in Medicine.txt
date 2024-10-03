@@ -1,0 +1,27 @@
+What we will learn? 	Metal ions in medicine, their importance and functions.
+Vitamin B12 is a 	cobalt complex
+Vitamin B12 contains	Co(iii) atom, corrin ring, organic portion(phosphate group + sugar + organic base), R group (sixth position)
+Without the R group, vitamin B12 is 	cobalamine
+R group may be substituted by CN-, OH-, CH3 and names will be correspondingly cyano, hydroxo, methyl cobalamine
+Active Coenzyme B12 	1. adenosylcobalamin or AdoCbl, 2. 5-deoxyadenosylcobalamine
+B12r means	reduced form of B12
+B12s means	super reduced form of B12
+How to synthesize B12r	hydroxocobalamine converted to B12r(Co2+ amines) in the presence of H2, Pt(weak reducing agent) 
+How to synthesize B12s	hydroxocobalamine converted to B12s(Co1+ amines) in the presence of NaBH4(strong reducing agent)
+Reaction of coenzyme B12 types	1. One carbon transfer, 2. Isomerization
+B12 one carbon transfer 	(Remember by HMGS) 1. Homocysteine to Methionine in the presence of coenzyme B12 and enzyme(Mnemonic: a journey from "Home" to "Methionine"), 2. Glycine to Serine in presence of coenzyme B12 and enzyme(Mnemonic: a magical transformation of "Gly" into "Ser")
+Isomerization in the presence of B12	involves moving substituents along a carbon chain
+Example of Isomerization in the presence of B12 	(Remember by GMPP) 1. Glutamic acid to Methyl aspartic acid and 2. Propylene glycol to Propionaldehyde, Nrnobi vai's pdf 44 page
+Reaction of B12s	1. B12s with HCCH, 2. B12s with RBr, 3. B12s with BrCN
+Enzymes 	1. proteins, synthesized by amino acids by cells. 2. catalysts that greatly enhance the rates of specific reactions.
+Enzymes are named according to 	process and substrate.
+Cofactor	non-protein part of an enzyme whose presence is essential for the activity of an enzyme.
+Metalloenzyme	metal and enzyme coordinated compound function for specific reactions.
+Mg(ii) cofactor presents in the metalloenzyme 	photophosphorylation-related: phosphohydrolases, phosphotransferases
+Fe(ii) and Fe(iii)	cytochrome(a, b, c, p450), ferredoxin, peroxidases, catalase
+Cu(i) and Cu(ii)	oxidase related: amine oxidases, cytochrome oxidase, ascorbate oxidase, galactose oxidase, tyrosine
+Mn(ii)	arginase
+Zn(ii)	carbonic anhydrase, carboxypeptidase
+Fe and Mo	Nitrogenase
+Carboxypeptidase A consists of	protein chain of 307 amino acid residues+one Zn(ii) ion in which Zn is tetrahedrally surrounded having a molecular weight of 34600 and is egg-shaped.
+Function of carboxypeptidase A	hydrolysis of peptide bond

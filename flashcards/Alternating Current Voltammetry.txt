@@ -1,0 +1,14 @@
+AC VOLTAMMETRY	Alternating current frequency-domain technique img(https://blogger.googleusercontent.com/img/a/AVvXsEi8NebLIHZLEh77ohhSCXcb6SAijzhROS3x5MEyLsEHZcLSxrvLMrNCpWbuSzxZIBRWtn_E3bIkvQMJ-Jpfh58H9QuIkEg74RZqDRKmt5FzxTgEvj8JwFEe8n8muU0Zqr4D1L_RDjRSgY_y1zCMWjGQUKEBsjGeJBgkYozSLTwBOqT5d3QKeKA9w06Op2ZX)
+Involves the superimposition	 of a small amplitude AC voltage on a linear ramp
+Frequency is usually 	between 50 and 100 Hz
+Amplitude between	 10 and 20 mV
+- AC signal causes perturbation	 in the surface concentration 
+- AC current is plotted	 against potential
+- Peak potential is the same as	 that of the polarographic half-wave potential
+-Large amplitude AC	 (>50mV) allows identification of specific components via higher harmonics “fingerprinting”
+- Useful for the study of 	electron processes 
+- Suitable for or used for 	fast electron transfer kinetics
+amplitude calculation	img(https://blogger.googleusercontent.com/img/a/AVvXsEhcT52jlzyS3NFGhglJv1eYXtozxSAJ5nqs38zd3xKM17bL8_cDFfuST1GgJ3N9jyfzsTaz7EuK1UfX6vrPRJBFwnCAdmFbXa3sGPwlBQcFOTokO1ch1gUXxahfwIbG5LFFkL_8ik7kTRH8Mr5LR4FSaWCbGaM7tjVnOXDl-0n4Iej26kbl3rtcCakGuD8J)
+- Peak height is proportional to 	analyte concentration
+- for reversible systems, Peak height is proportional to	 the square root of frequency (ω) 
+- Peak with is independent of	 frequency = 90.4/n mV at 25 oC

@@ -1,0 +1,7 @@
+Staircase Voltammetry	img(https://blogger.googleusercontent.com/img/a/AVvXsEikhqlsRFdfHLlEf525hzwrMjW9IQpL-Qu8dI_-PlD92Yib_QoUc49trXJZ9kIkHLWQpC9QCnAn2fW7pTmG_otaMTa80Ui652GaLOkFMTxYfwiXsgVuIrb8a-FDm3GZbz_xVesxbI1Y3mTaV2Q-jUI9k0ihCOthTkyuAoVG0K6yGMMSDad4brlOFNmb8-zN)
+Useful for rejecting	 background charging current
+Potential-time waveform involves successive potential steps of height and duration 	 ~10 mV height and ~50 ms duration
+Current is measured 	at the end of each step where the charging current is negligible (has decayed)
+The peak-shaped current response is similar	 to that of linear scan experiments (considered as a digital version of linear scan)
+The voltammetric response is similar to 	cyclic voltammetry
+Charging current contribution 	is much reduced

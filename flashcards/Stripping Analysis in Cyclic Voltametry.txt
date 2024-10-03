@@ -1,0 +1,28 @@
+Stripping analysis	Two-step technique: 	1. Deposition step/concentration step, 2. stripping step 
+Deposition Step/concentration step	 Preconcentration step- Involves the electrolytic deposition of a small portion of metal ions in solution into a mercury electrode
+Stripping Step	 Measurement step - Involves the dissolution (stripping) of the deposit by gradually increasing positive potential is applied to the H.M.D.E.
+Typical stripping voltammogram	img(https://blogger.googleusercontent.com/img/a/AVvXsEgoJi6fLSIb5ZK_6TTPSgwM_QoXSE2Xz3S5zTDlPhZOBYEYZ4Q5ewdKDjgvPkIszBy8QMsaQe0x1xDALZpgoddPsE-sOGZzQd-Y6_5EIsW-9gzyWSmidt2DKhcjesGmq57l-rPzzxFrZ_q5kl1h4UA0jJRQtEHSjMbsBbkQV78q0i7Ah4FtNqm1LoiARojf)
+this analysis Very sensitive for the detection	 of trace metals 
+- Favorable	 signal-to-background ratio
+- About four to six metals can be measured 	simultaneously at levels as low as 10^-10 M
+instrumentation cost	low
+- There are different versions of stripping analysis depending on 	the nature of the deposition and stripping steps(that 2 steps)	• anodic stripping voltammetry • potentiometric • adsorptive stripping • cathodic stripping • abrasive stripping
+The most widely used stripping analysis	Anodic Stripping Voltammetry (ASV)
+Preconcentration is done by 	cathodic deposition at a controlled potential and time
+Metals are preconcentrated by	 electrodeposition into a small volume Hg electrode
+Deposition potential is usually	 0.3 – 0.5 V more negative than Eo for the analyte metal ion
+Metal ions reach the Hg electrode surface 	by diffusion and convection 
+Electrode rotation or solution stirring is employed 	to achieve convection 
+Metal ions are reduced and concentrated as	 amalgams Mn+ + ne- + Hg → M(Hg)
+in this stripping voltammetry electrode  	Hg film electrodes or Hg drop electrodes may be used
+Only solution stirring is employed with 	Hg drop electrodes
+Quiescent solutions can be used with	 Hg ultramicroelectrodes
+concentration of metal in the amalgam calculation	img(https://blogger.googleusercontent.com/img/a/AVvXsEgSGe8T6iUjpESdphr94oilx4Y7DKaFpGsnCVlGvBImHH8cd6kbpWOeaCf4ZAMJyKwQuXhkhZCPnz6UpDQQiK5wCf_GuaPtirKSfqP6C6rt7D5J6TLDisy4Mk1tNJhcbxSxqg1Pal5s75ixBuLPWZalrfc3Gat2Q1CtNZ8Gz9Ib1OCZIWsbQSnjV34jNX1o)
+deposition period means 	(stripping step) 
+In this stripping step	1. Forced convection is stopped, 2. The anodic potential (positive potential) scan is employed (may be linear or pulse), 3. Amalgamated metals are reoxidized (stripped off electrode) 4. An oxidation (stripping) current then flows M(Hg) → Mn+ + ne- + Hg
+A stripping voltammogram plot is	a current-potential plot showing peaks for metal ions present
+- Peak potentials are used to identify	 metals in a sample
+- Hg film is more sensitive and more efficient in preconcentration than	 Hg drop (due to higher surface: volume ratio)
+- Hg film gives	 sharper peaks and improved resolution for mixtures - Bismuth and gold electrodes may also be used
+The peak current for Hg film and drop electrode is given by	img(https://blogger.googleusercontent.com/img/a/AVvXsEiaZtZ8ydS_AsSv_21TFZkGguckLyHOfmL63Lz5PD8I6GoYMIUQxWNnVnTuroX9a4Wzulr28m5BxgQZV6ykBx3zLe7Bjmh-MZQLVP3vfc09jjbxLTa7SHsSq9mbnT2XvLiWgjsVsC7RH5WfGESNqyQyEtJhkuu7QnjSm-6BxzHGE-JYz9iTBeWSTYDoYlzF)
+Potential scan diagram and voltammogram diagram in stripping analysis	img(https://blogger.googleusercontent.com/img/a/AVvXsEj6CR5iYHWYviofYdNeGV2Ml2IRVobTpjh1klzK2SnhhJ58CLu9XDmInRxm95yAnqOloevcQMjaH3eCQfwuDo2zAyGg-TXRuUyvkmPOWFuzj2AgLXPt6vu7Xib8F084goLajO-2zH-cZAh0sxvZg22yHFS0ReI_XyXKVcRUJPdeIIDsFgb5d-FmF9uiLr6Q)

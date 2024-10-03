@@ -1,0 +1,17 @@
+Electrogravimetry Discrussion		Constant current electrolysis, separation with controlled electrode potentials. Physical characteristics of metal deposits.
+Electrogravimetry	is a method to separate and quantify ions of a substance by depositing them upon a suitable electrode
+Principal	deposition on an electrode(by Ohm's law and Faraday's law)
+Faraday's law	the amount of deposition of substances is directly proportional to the quantity of passed electricity through the solution. Equaiton -> W propotional to Q, where, Q=It. That dissolved mass is proportional to the atomic mass divided by the number of electrons involved in the process. Eq-> W prop to Z, where Z = m(mass)/n(no. of e transfer)
+What is the Z for Cu and Ag	  63.5/2 and 107.87
+To take place Electrolysis	applied potential must overcome the decomposition potential(ED) of the electrolyte
+Eapp > or equal to	ED + IR 
+Concentration profile diagram during electro gravimetric analysis	 E vs conc. E=1/conc. The diagram is given below: img(https://blogger.googleusercontent.com/img/a/AVvXsEhgh9gIgNYDUwe5cVq-Otd-XsWKsZvcq2MbmWCp89-nX_zGBVJt3-l3mN9J4-7jarDFTy60eYuTG59X6cLtcc-HF-Q7wo2plwXw3greQE8UazbMOWUVCAS97wwuawBhTc0ils2I8M1911rHsGOTrmeZrDCAKRnKZG6RsuQ3sYD01j9szaS-E81r6ymwBr-U)
+Over potential	experimentally the extra potential needed for decomposition of electrolyte than calculated reversible back emf.
+Overpotential occurs	 at the anode and the cathode
+Decomposition voltage, ED =	Ecathode + Eoc - (Eanode + Eoa); Eoc and Eoa means overpotential of cathode and anode.
+Another name or term for Electrolysis is	 the chemical decomposition
+Types of over potential	1. conc op, 2. complexation op, 3. gas op, 4. activation op
+Concentration Overpotential	the potential difference caused by variations of conc of reactants or products near the electrode surface compared to their bulk conc in the electrolyte.
+Cathode	negative charged as reduction occurs here and electrons are getting accumulated.
+Potential buffer	maintains the potential by oxidation and reduction reaction.
+Example of a potential buffer	Urenium acts as a potential buffer: img(https://blogger.googleusercontent.com/img/a/AVvXsEiH5AuypWsr_OadFDYEtNzgJLZAbiVGHT7W1W_yYSlVUDU81Sf_keNOb-7A1XTctiCMABcNhw8X74c0NuHzZvAFZb_83u7iVv3qoaA8wOVh4tAEHg4uU1g6wjuQ8zla4praysjpMsMx9k0fH6dysBS20Z2wDv9aa70kF49a-L6Z4E_xNVmIW64WHci1ou-F)

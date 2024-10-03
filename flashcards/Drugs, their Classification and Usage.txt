@@ -1,0 +1,37 @@
+Drugs and their classification	Here you will learn about drugs, their classification and usage.
+Medicinal chemistry	study of those chemicals which have the potential and beneficial effects on disordered living system
+Drugs	a chemical substances used in the treatment, cure, prevention, or enhancement of physical or mental well-being
+Pharmacology	the study of Pharmaca (therapeutic agents or drugs) or biological active substances (fungicides, insecticides, toxins) on the living animal organism
+Clinical pharmacology 	the study of the effects of drugs on both healthy volunteers and patients regarding the safety of drugs in humans
+Classification of drugs based on major biological effects	(CPCM) 1. CNS or psychopharmaceutical agents, 2. Pharmacodynamic agents, 3. Chemotherapeutic agents, 4. Metabolic diseases
+CNS or psychopharmaceutical agents	Antipsychotic agents, Anticonvulsants, Analgesics, Antiparkinsonian agents, Antidepressants, Anxiolytics, Sedative-hypnotics, Drugs for cognitive disorders, Stimulants
+Pharmacodynamic agents 	Antihypertensive agents, Calcium modulators, Antiischaemic (antistroke) drugs, Antiulcer-gastrointestinal agents, Antithrombotics, Pulmonary and antiallergic agents, Antiarrhythmics, Antiglaucoma, Vasodilators
+Chemotherapeutic agents 	Antimicrobials, Antifungals, Anticancer, Antiparasitics, Antivirals
+Metabolic diseases	Contraceptives, Antiandrogens, Antiinflammatories,Dermatologicals , Antiatherosclerotics, Antirheumatics and autoimmune disease drugs, Antiobesity agents
+The central nervous system comprises	the brain, and spinal cord that controls the thought process, emotions, senses and motor functions
+Antipsychotic agents	alleviate or eliminate the worst effect of severe mental disorders such as schizophrenia
+Anticonvulsants	control the involuntary convulsions of epilepsy
+Analgesics (ব্যাথানাশক)	can be taken as a tablet or dose to relieve pain
+Antiparkinsonian agents	to relieve from Parkinson's disease that causes tremors and gait disorder
+Antidepressants	for severe depression
+Anxiolytics	for anxiety (চিন্তা)
+Sedative-hypnotics	promote sleep
+Drugs for cognitive disorders	Alzheimer’s disease that occurs in elderly age
+Pharmacodynamics	correction of malfunctioning of the body acting on the dynamic processes of the body such as the heart, respiratory system and gastrointestinal tract
+Antihypertensives and others, all act	Antihypertensives and others such as calcium modulators, antiischemic, antithrombotic, antiarrhythmic, antianginal and vasodilating agents all act on some part of the heart and vascular system to reduce blood pressure, heart rate or force, or to improve blood flow.
+Pulmonary and antiallergic drugs affect	 the lungs and respiratory system
+Antiglaucoma drugs affect	 the eye condition, glaucoma
+Antiulcer and gastrointestinal drugs heal and prevent	 the recurrence of stomach ulcers and increase gastric motility
+Chemotherapeutic agents are selectively toxic	 to parasitic organisms invading the body. 
+Antimicrobials act on	 bacterial infections
+Antifungals act on	 fungal infections
+Antivirals act on 	 viruses
+Antiparasitics acts on parasitic infections such as worms and protozoa (e.g. the malarial parasite). 
+Anticancer drugs act on	the disordered bodily tissues seen in invasive tumour growth
+Metabolic diseases and endocrine function classification	it is not so classified
+Contraceptives interfere biologically	 (গর্ভ নিরোধক) with the conception process (traditionally in the female)
+Antiandrogens are important	 in prostate cancer
+antiinflammatories, especially the nonsteroidal anti-inflammatories (NSAID)	are very widely used as palliatives for mild pain, joint disorders, and rheumatism
+Dermatological are usually applied	topically to alleviate skin disorders
+Antiobesity drugs are used to	treat eating disorders
+Read about major process in Drug	<a href="/flashcards.php?file=flashcards%2FMajor+processes+of+drug+action.txt">Major processes of drug action</a><br><a href="https://flash.cardcodegenerator.com/flashcards.php?file=flashcards%2FDrugs+Application+Formulation+and+Mechanism+of+Treating.txt">Drugs Application Formulation and Mechanism of Treating</a>

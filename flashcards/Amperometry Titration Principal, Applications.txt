@@ -1,0 +1,37 @@
+Amperometry 	titrimetric method, used to calculate equivalence point, through current measurement produced by reactants, at constant applied potential.
+The current magnitude	depends on the concentration of the analyte.
+Principal	constant potential, limiting current proportional to conc of reactant/product, according to Ilkobic equation. 
+Diffusion current 	= limiting current - residual current
+Amperometry is also called 	potentiometric titrations
+Electrodes in amperometry	1. Polarizable, 2. Non-polarizable, 3. Indicator microelectrode: dropping mercury electrode (DME) or Pt electrode, 4. Reference electrode: SCE
+Ilkovic equation	img(https://blogger.googleusercontent.com/img/a/AVvXsEgtVezm48H439PcDAi-afysdRb1G0pPVaBxPw7AxPLe2cB2_QXNUnBsDyr0vuzpVnS62GGXEMtI76E6iKa7ouUA9FW2YS-jkJ4gd-wunZDqgcBvnvm5uWJKBQqM7d_cIpkmWeFUQ-hO-y4Osv_gX2tPueujGz_dh5eeTSn_Lo_nGKJw5OAKoIrOZbbmfbAf)
+Example 	titration of reducible(positive charge or reducing means a decrease of positive charge)Pb2+ and (SO4)2-(non-reducible, that means there is nothing to reduce), Upon adding titrant Pb2+ forming PbSO4, Pb2+ decreases so id decrease.
+Difference between amperometry and polarography	img(https://blogger.googleusercontent.com/img/a/AVvXsEhSBb5uPanFWoBIDRav7TzI7jM3ArWU1fuC_x9x0VJh79PpLSK2_90SwGJxpy89Imhby9EfSHzGGBuhMxQuudQazauw0-1nCkSDWHbKeiJN7riGoNfDnFYha3xnm9IXlHzLoXPJSB2iAQtnxdoIq7ku7zFe7tHBlz1zvHcwEwlYtDgN6Fc3fLn6ubNVlQ_A)
+Graphical difference between amperometry and polarography	img(https://blogger.googleusercontent.com/img/a/AVvXsEimgbSbmFFO9rO9_QecXY2vAhotwtMuk8DwxxqllTQMmoOvOjB0rZRf1tf-lsFMh2-Bwv0YmW21aj2pU9qtO-5FO81lAASNLEBHVNJE5eA338Bf-uvMtXkO1HCGf4vUeSsz9HqUovrJaAL_okVg0Gv1FRvq2n5Q2eyd2y693tqoTclWQHaXaPUgfX-jE6EV)
+Condition for performing amperometric titration	1. Both titrant or titrand or at least one of them should be electro reducable. 2. Applied potential should correspond to the limiting current.
+Apparatus of amperometry device	img(https://blogger.googleusercontent.com/img/a/AVvXsEjUr8AoN8aciqeRejE38_VzuSzB-DkqQvmb3lk2O-tNEpmVEWs5S11Wvr6It9ndGlI1_-nDXqBIklceevM59zSJR1mAc3VY52wROvISz-PndOWK0WROcJvUu1k2dnfcGdkK8AEGAh6HoB8feFisDkxrSrL-i-khWkxFB4Qlvv6c0Xj6PTKGtBavcPw36ZYw)
+Advantages of the use of rotating Pt-electrode	1. small conc can be measured using this, 2. this can be used at positive potential up to +0.9 volt. 3. simple to construct. 4. steady diffusion state is reached quickly. 5. Microconcentration of material can be determined. 6. rotate fastly. Keywords: micro conc can be calculated, can be used in +ve pot., simple construction, diffusion state reached quickly, high rotation.
+Difference between DME and Pt electrode	• Pt electrode's Diffusion current is 20 times larger than DME which allows measuring the small concentration of ion. • The rotating platinum electrode can be used at positive potential up to + 0.9 Volt as DME can be used only +0.4 volt to -2.0 Volt
+Draw rotating Pt-electrode	img(https://blogger.googleusercontent.com/img/a/AVvXsEjKIfBcSjxT5v9ay8Wf1ywsYg55-JFdPmWeYiWRUy4WpWqFMVTznpht_XHoqOoVxUfx-CzvSFFro5ZDUxKag1BGRpj2takzJArHw9P_I0lQFthlWLOrPaq-rcyUKD_hwGT6Dd1bhF91v4yImV2usMpBzJDJ8im_yIYMf1C54QqZu_DWRuIdFRrKbEWq3GfX)
+Type of amperometric titration	img(https://blogger.googleusercontent.com/img/a/AVvXsEgWBdPHCiTqF3rqUaFLmh8rX_ktWOLWJnB_z2SCT0IHIloyS-AUJzwUJcYAteTuizyFYxZH2s0pxrce8ep0vxcGak0D51htpGWPs4DMH1ORWiKoAI5A_TVVEuF9gF6LTCqthlcfqDdIsIyWVqy1pDEmIghjoSrNXaPKtA-YBiMP6o9hWRjcefxfxsttsExQ) Moreover, redox titration.
+Titration of reducible ions vs non-reducible ions	img(https://blogger.googleusercontent.com/img/a/AVvXsEiVZU9h50EzgmR8hNhI8i9WhSQ-usZE3Rw0V-1R7CjoF6HP8N8mJgJDqi61YLIXFkDiOiZlz5hGRarNAAMlN4OFiQnkuE1Cylgs7QwOF3VRKnXVPjP9ZHwoNWDMgihkZgTPwVsoGOe2DOKza6mw7aqZctmyEQAKKAErZAlaxTLuerMuv53Q_Vgy6N9Kuhk1)
+Titration of non-reducible ions vs reducible ions	img(https://blogger.googleusercontent.com/img/a/AVvXsEhHK6rdHqGOVzmqmHhIdbzR3OaH5qIESA-k4lqQjvosVPzNt5YxayWFLTpg05fkqU4Oo5xJrcTnJcTXP4Jq7WAobhA8Hbu8Zuw6bLfkqeBmM3MCKSLqROmY5MhPA1jyb6RksSfGvSfkXi_OKnOkACig2Lztz6ZRUhgGaaQjfh28D7Jv5fh6R6NY8gWCBTn8)
+Titration of reducible ions vs reducible ions	img(https://blogger.googleusercontent.com/img/a/AVvXsEh4BMUi9c_HR77ZrArHfQwz-6oVxhsVG6fSu_otqrL7gbBqwzULX09lVe2d8DhvXBwSeoxE4AJNr8aiDtKgYRmgv7vIi2jYUxAv49X926v1zzTEQTsBdoB5rDH0HivKBf6B-B6oQE0MsAvvOD8tAyihVBvw8Rfj9PPxi9iaS-8Doh-WyMwyhC4KlluBLhr9)
+Redox titration	This occurs between oxidant(oxidizing agent- Titranous) and reductant(reducing agent- Ferric) img(https://blogger.googleusercontent.com/img/a/AVvXsEjzLR04ySnIFxq-MXX8dI3hLUMiUPkCXkBMqUBnMm05q3kBRe8IvpLnTdLaY4ouUgPOLLOfU-bNyG1CNeSMAZMy6oLS9CUzj2XTsYbghqMUeMty0fZalStJ2LjNVe-N0_-8TcSYhSGfbVbm-js7qU4q3u0ffI6MfodTTBJAprX2QYkhnv4tf6zEWjQz3JdY)
+Advantages of amperometry	Simple, good over potentiometry, carried out at dilutions, eliminating migration current, temperature need not be known, reversible or irreversible, works for non-reducible ions. img(https://blogger.googleusercontent.com/img/a/AVvXsEhV5QbiCHacL5eI12BSQy0o45XTszmAc8BqGDaMWPefOz__dVjIrum7McXjAOun8nVH4COaQLWDoljPghibYHcfdR4ug7YLfX_OgwBJQsKWgt2r4jEJLslVb1XThaCRYY6Eyi3EZoLA8b-6lqGjzwUIFr0BGmlCCZ88DMjesmxBZ1q-IZs3dHhP0AKbCYY0) img(https://blogger.googleusercontent.com/img/a/AVvXsEghr28fIxM4_yGUzmedPe8y820g4oQnQJglh2cbd4Af7yhl21zaD9JvW9e7_fr7fzzhbPXXkgFkKUBHNRvtg6T0ikaTiqNUv_zyEi_V1FARKqUjY2sdJcEZnW9tP2tDr2rA8F66kqyG_3pdyR5DubdL9hbj4z8bu_Sg27Hp1rSD_KE1UjodUg-rMt53UiKh)
+Applications of amperometric titration	img(https://blogger.googleusercontent.com/img/a/AVvXsEhN0_sF6RAW91MvvG3XLD1sLINI-5Ox7qEsIqPc7wVUqlyN7Q6yYfKVA8SiqTihNexOUU0jFj-mPzkLrVBkwNzpBd6ltJUvLjWlnzDnUNcbamZbVdzOHSek9VrLEhcIY3-Vad5C42C5TGVoqZR-xSJdDidcSRvnl5ZiyON9rMpBg-_r1DGJE3DHCERnq8_q)
+The working electrode	reacts with a reducible analyte(titrant) or reagent(titrand)
+Diffusion current	is minimum at the equivalent point.
+Amperometric titration graph	diffusion current vs vol of titrant
+If titrand is electroactive, graph?	Id is high to low and no change.
+If titrant is electroacive, graph?	Id is low to no change and high.
+If both are reducible, example, graph?	Id is high to low, low to high. Pb2+, (Cr2O7)2-, 2Cr6+ -> 3Cr3+
+Condition of CN-, Cl- and cyanates' amperometric titration? 	with AgNO3 sol at the rotating Pt electrode and saturated calomel electrode at zero potential
+AgCl, and AgCN undergo electro-reduction, what's the inhibitor to inhibit those?	gelatine
+CN- deposition reaction 	AgNO3+CN- -> AgCN
+Cl- deposits as 	AgCl, but no potential change as it's not electro-active.
+Titration of Cyanate(OCN-) 	25% methanol to decrease the solubility of AgOCN, carbonate ion is removed by adding barium nitrate.
+Titration to zero current takes place between	solute and reagent(titrant).
+Reagent makes 	the cathodic current
+Solute forms 	an anodic current
+Zero current titration occurs due to 	different diffusion coefficients between solute and reagent.

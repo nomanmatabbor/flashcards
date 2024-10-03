@@ -1,0 +1,85 @@
+This page is showing about	Metalloporphyrin chapter all the important questions.
+Porphine is a	specific organic compound, a type of porphyrin. It is a porphyrin without metal ions coordinated in its central cavity. This is a basic and simple form of porphyrins.
+The structure of porhine consists of 	the same pyrrole rings connected by methine bridges, with no central metal ion.
+Porphyrins are	a broader class of organic compounds that includes various derivatives of porphine.
+The structure of porphyrin consists of	a macrocyclic structure composed of four pyrrole rings connected by methine bridges and a central metal ion is coordinated with the N atoms in the pyrrole rings.
+Porphyrins are widely known for 	 their core structure heme in haemoglobin and myoglobin, chlorophyll in plants, and cytochromes in electron transport chains.
+Metalloporphyrin	specific subset of porphyrins, there is a central metal cavity.
+In summary about the relation of porphine, metalloporphine and porphyrin 	porphine and Metallo porphine are porphyrin
+An example of porphine 	specific, 4 pyrrole ring connected by methine and no central metal atom.
+Example of metaloporphyrin and porphyrin	heme, chlorophyll
+The structure of the Heme group 	its core structure is a porphyrin ring's nitrogen atom coordinated with an iron atom. Two neighbours pyrrole have correspondingly a methyl and an ethenyl on each in the same order (methyl ethenyl methyl ethenyl). Another two neighbours have methyl and ethanol corresponding on each but in a different order(methyl ethenyl eheneyl methyl).
+Another name for heme protein	hemoprotein
+Hem protein	contains a heme group as a prosthetic group, it has Fe atom at its centre coordinated to the porphyrin ring. Because of it, blood is red coloured.
+Examples of heme proteins	haemoglobin, myoglobin, electron transporters in the mitochondria, cytochrome P450
+Myoglobin	stores oxygen in muscle cells
+Similar to a subunit of Hemoglobin	Myoglobin
+Structure of Myoglobin	It is a five-coordinated Fe complex having a globular protein at the fifth position and four nitrogen atoms of porphyrin ring on the other four positions.
+Globular protein structure	Imidazole ring's 2 no carbon is connected to protein chain, 4 no Nitrogen is connected to central Fe atom.
+The function of myoglobin	1. store oxygen(primary role), 2. increase oxygen solubility in muscle tissue, 3. facilitate oxygen diffusion
+Hemoglobin	red protein, transfers oxygen in the blood of vertebrates, with four subunits, each containing an iron atom bound to a haem group.
+Structure of Hemoglobin 	four polypeptide subunits: 2 alpha chains(141) and 2 beta chains(146)
+Number of Hb in a red cell	640 million
+Function of Hemoglobin	1. Binds oxygen molecules to their iron atom and transports them to muscles from the lungs. 2. Binds certain amino groups to bind CO2 and carry it back to the lungs. 3. Buffer, 4. Blood color
+How does Hemoglobin carry oxygen?	Binds oxygen molecules to their iron atom and transports them to muscles from the lungs.
+How does Hemoglobin carry CO2?	Binds certain amino groups to bind CO2 and carry it back to the lungs.
+Deoxyhemoglobin(spin, coordination, shape)	5-coordinated high spin complex of Fe2+, square pyramidal
+Oxyhemoglobin(spin, coordination, shape)	6 coordinated low spin complex of Fe2+, octahedral
+Fe2+ go up by 0.75 Ansgstrom from the pyrrole plane 	in deoxyhemoglobin
+High spin Fe2+ electron configuration using eg and t2g	eg2(dx2-y2 1, dz2 1) and eg4(dxy 2, dyx 1, dzx 1), the electrons in eg2 repel the lone pair electrons of nitrogen atoms. This repetition causes the going up of the Fe atom from the plane of the porphyrin ring moreover, the Fe atom is bound to an imidazole N atom and goes upward.
+Deoxyhemoglobin structure/why iron atom slips into the planar porphyrin ring 	oxygen bound to the Fe2+ causes low spin of iron where the 6 d electrons occupy the dxy, dyz, dzx orbitals. The dx2-y2 and dz2 is then empty, so no repulsion occurs among the electrons and lone pair electrons of N. Thus iron atom slip into the center of the planar porphyrin ring and an octahedral complex is formed.
+Cooperative effect	when an oxygen is attached to the heme group, another oxygen attaching becomes more easy. 
+How does cooperation occur in heme to bind oxygen? 	This occurs in haemoglobin by the following: We know, that haemoglobin is made of four subunits of heme that contain a porphyrin bonded to Fe2+ and a globular protein called globin from a histidine molecule in protein bonded to the 5th position of Fe2+. When oxygen comes and bonds to one of the subunits' sixth position causes spin pairing. The Fe2+ moves into the plane of the porphyrin ring and in doing so, Fe2+ moves the histidine molecule attached to it as well. This causes conformational changes in the globin chain. As the globin chain is hydrogen bonded to the other three units, their conformation also changes. This enhances their ability to attract O2. This is the details cooperative effect phenomenon.
+What change occurs in the quarternary structure of haemoglobin because of the cooperative effect?	upon oxygenation two of the groups move about 100 pm towards each other while the other two separate by about 700 pm.
+ O2 adding reaction in Hb	Step 1: O2+Hb=HbO2;k1=5-60, Step 2: HbO2+O2=Hb(O2)2, Step 3: ..., Step 4: Hb(O2)3+O2=Hb(O2)4;k4=3000-6000
+ What will cause if CN is bound to haemoglobin? 	Death occurs. As Fe-CN is a stronger bond, it's irreversible(not reversible like Fe-O), so O can't be interpreted here. O flow in the cell doesn't occur, so finally death occurs.
+If the CO ligand is binded to the hemoglobin	same thing occurs like CN.
+Blood components	plasma, red blood cells, white blood cells, and platelets.
+Blood is a suspension of 	liquid plasma consisting of red blood cells, white blood cells and platelets
+Plasma proteins 	 albumin, fibrinogen, globin, antibodies
+Plasma consists of  	water, salt, ions(Na, K, Ca, Cl, phosphate, bicarbonate)
+The function of blood	1. Transforming oxygen and nutrients to the lungs and tissues. 2. Forming blood clots to prevent excess blood loss.
+Blood clotting mechanism 	When a tissue is damaged, platelets become activated and with thrombokinase enzyme, convert prothrombin into thrombin. This thrombin further activates the fibrinogen in the presence of Ca2+ to form fibrin. And finally clotting is achieved.
+Role of Ca2+	1. Form solid skeleton mateirals e.g. bondes, 2. Stabilizes conformation of proteins, 3. Plays a vital role in blood clotting.
+Role of Cu	1. Ceruloplasmin (Cu enzyme) found in plasma, plays a role in Fe metabolism. 2. Plastocyanin, is involved in electron transfer in photosynthesis.
+Mechanism of CO2 transportation in the body 	When CO2 has higher partial pressure in tissue, it enters the erythrocyte through the capillary and forms H2CO3 with H2O in the presence of CA. That decomposes to H+ and HCO3-(), and the H+ with HbO2 forms HHbO2 that further decomposes into HHb and O2. Then O2 goes into tissues.
+Mechanism of O2 transportation in the body	When O2 have higher partial pressure in the lungs, it goes into the erythrocyte through the capillary and forms HHbO2 with HHb that further decomposes to H+ and HbO2-. Then the H+ with HCO3-() forms H2CO3 that decomposes into CO2 and H2O in the presence of the CA(carboxy anhydrase) enzyme. Finally, the CO2 comes back to the lungs.
+Maintaining the pH of blood 	The pH of blood is 7.4 and this is maintained by the buffer system of HCO3-/H2CO3 and Hb-/HHb. The CO2 produced in the metabolic process form H2CO3 with H2O in erythrocytes in the presence of CA. That decomposes or ionized into H+ and HCO3-. This HCO3- diffuses out of the erythrocyte and is carried out by blood plasma to the lungs and this is a major mechanism of CO2 removal. The H+ reacts with the conjugate base (HbO2-) and forms HHbO2 which releases oxygen more easily. Now the O2 inhaled goes into the erythrocyte from the lungs, in this case, HCO3- ions diffuse into the erythrocyte from plasma and react with haemoglobin to form H2CO3, Hb- where the H2CO3 decomposes into water and CO2. Then the CO2 diffuses to the lungs and is eventually exalted. The Hb- reacts with O2 and forms HbO2-that again reacts with HCO3- to form Hb- and H2CO3. This carbonic acid again decomposes into water and CO2. In this whole process, we see that the buffer system is HCO3-/H2CO3 and Hb-/HHb which releases CO2 and maintains the pH of blood to 7.4.
+Oxygen saturation curve in haemoglobin and myoglobin 	Sigmoidal curve where the partial pressure of O2 (kPa)(0-20) vs saturation percentage(%)(0-100)
+Myoglobin in oxygen saturation curve	at the over of haemoglobin
+Haemoglobin in oxygen saturation curve	Hb at ph=7.6 over Hb at pH=6.8 but under Mb
+What does the O2 saturation curve mean? 	The sigmoidal curve means that both the update and release of successive O2 molecule is cooperative. Additional: At low O2 partial pressure and greater acidity Hb has a low affinity for O2 that enables Hb to transfer its O2 to Mb. When pressure gets increased the affinity gets increased to bind O2 by the hemoglobin and consequently, Hb can pick up O2 from the lungs.
+A low affinity of Hb is called	T state (Deoxyhemoglobin)
+The high affinity of Hb is called	R state(Oxyhemoglobin)
+Cytochrome	Proteins that sequencly transfer electrons to O2.
+Prosthetic group of cytochrome 	heme undergoes reversible Fe2+ <--> Fe3+ oxidation and reduction
+Energy transferer in photosynthetic reaction 	 cytochrome 
+Prosthetic group	non-protein part of a protein.
+Prosthetic group may be 	non-protein: organic, inorganic e.g. metal 
+The iron atom in cytochrome 	can exist in two oxidation states Fe2+ and Fe3+
+Cytochrome structure 	Cytochrome structure consists of a heme group with an iron atom at its centre, coordinated to histidine residues within a protein. This structure allows cytochromes to participate in electron transfer reactions, aiding in various biological processes.
+Why is the potential O2 carrying capacity of the heam in cytochrome blocked?	There is not any vacant site of Fe at the sixth position of Heme, so potential oxygen-carrying capacity is blocked.
+Cytochrome P-450 	transports oxygen rather than electrons as cytochrome.
+Typical reaction of cytochrome P-450	R-H to R-OH
+Mechanism of cytochrome P-450	image
+The usual net reaction of Photosynthesis	converts H2O and CO2 to carbohydrates and O2
+Biproduct of photosynthesis	O2
+Half or more of the photosynthesis occurs in 	algae, diatoms, and certain red, green, brown, and purple bacteria
+Oxidized species in photosynthesis generally	H2O
+Oxidized species in photosynthetic bacteria 	H2S, produce S instead of O2.
+O2-producing chloroplasts contain two kinds of chlorophyll	1. chlorophyll a.
+In photosynthesis, O2 is produced from 	H2O
+During photosynthesis, NADP+ reduces to 	 NAD+ which is driven by light energy absorbed.
+Carbohydrates occur in photosynthesis by 	reduction of CO2
+Carbohydrate synthesis uses the energy from	stored energy by the NADPH and ATP
+How many reactions in O2 producing plants	2 light reactions: Photosystem 1 and Photosystem 2
+Does Photosystem 1 produce O2	No
+Photosystem A involves chlorophyll	chlorophyll a
+Chlorophyll A absorbs	680 nm
+In which photosystem, O2 formation occurs	photosystem 2
+Photosystem 2 involves	chlorophyll a and b
+Photosystem I contains	about 200 chlorophyll molecules and about 50 carotenoid pigment molecules.
+How many photons are needed for photosystem 1?	8 photons.
+Mn are involved in photosystem	2
+Z scheme for the pathway of electron transfer from H2O to NADP+ in two photosynthesis for green plants	H2O->P680->P680*->Acceptor(Ph, pheophytin)->plastoquinone->Qb(second quinone)->cytochrome Bf complex(cytochrom chain and Fe-S protein)->plastocyanin->P700->P700*->Acceptor(Ao)->Phyloquinone->Fe-S protein->ferredoxin->ferredoxin-NADP+ ->NADP+ ->NADPH 
+Overall NADP+ to NADPH conversion	H2O + NADP+ + 8 photons -> 2NADPH + 2H+ + O2

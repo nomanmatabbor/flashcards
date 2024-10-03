@@ -1,0 +1,46 @@
+Coulometric Methods	Principal, Instrumentation, Applications, Coulometric Titration etc.
+Electrochemical cells under static conditions	Potentiometry
+Electrochemical cells under dynamic conditions	Coulometry, electrogravimetry, voltammetry and amperometry.
+What do you mean by dynamic in coulometry	A potential is applied from an external source forcing a nonspontaneous chemical reaction to take place ( Electrolytic cell)
+The coulometric method	is an exhaustive electrolysis that is the quantitative reduction or oxidation of the analyte.
+Coulometry measures the amount of analyte	by measuring the amount of current and time required to complete the reaction.
+Types of Coulometry	1. Controlled potential coulometry: constant potential is applied to the electrochemical cell. 2. Controlled current coulometry: constant current is passed through the electrochemical cell.
+Faraday’s law	Total charge, Q, in coulombs passed during electrolysis is related to the absolute amount of analyte: Q = nFN = It; where, n = no of moles of electrons transferred per mole of analyte, F = Faradays constant = 96487 Cmol-1, N = number of moles of analyte, Coulomb = C = Ampere sec = A s
+How to measure Q?	 Q=nFN and img(https://blogger.googleusercontent.com/img/a/AVvXsEiDFz4FWvETwnWqRXlc6115OHC9IL0x6uAu2KMRINC3MBo5UokSazW2q5_7QoSlzVK_C9dPYEwcsnExd87srru8GQUFm1NzSGp0DNSUBasWWcoyQzY8OxLLaodRO11wM6fTIl-mI_e4zTbaMCRqasWX62DOm9zpTncAozILxr8PgGXF8IdVc5jWtcJuXXnq)
+What do we measure in coulometry? 	Current and time. Q & N are then calculated according to one of the equations Q=It, Q=nFN, 
+Coulometry requires 100% current efficiency, what does this mean?	All the current must result in the analyte’s oxidation or reduction, which means all the current should be used in oxidation and reduction.
+Constant potential allows 	  the analyst’s reduction or oxidation without simultaneously reducing or oxidizing other species in the solution.
+Other characteristics of controlled potential volumetry	It is also called potentiostatic volumetry. Characteristics: 1. The current flowing through the cell is proportional to the analyte concentration. 2. With time, the analyte’s concentration as well as the current will decrease. 3. The quantity of electricity is measured with an electronic integrator. 4. See image: img(https://blogger.googleusercontent.com/img/a/AVvXsEg3tHmOS6GEAMKNj-cyBgxfq-Bwl8gH7dUjhB4SKFDOj1SktAiT4to9DYcf0-a7TxbVYzFez5EQ863zf9FTYiQFguREYLn9S0OjyuV4On7T0n_KGh60aeFI5eVZXh28i7AR2tn2sIDn6X1W2wOHrTn3cKhG582BSK-Sx_Mlr6hylu381DM2lSsWgH2N_RYt)
+How to select a Constant Potential	The potential is selected so that the desired oxidation or reduction reaction goes to completion without interference from redox reactions involving other components of the sample matrix. img(https://blogger.googleusercontent.com/img/a/AVvXsEigZ57dM9Gby1stigUYUnYp7v7ESgdNwUTXPp90zUfL-TOhQyPxp3hIqNb3DtGY3Rb9pCE2eDQDmoayXM7_kxJk_ADlO38t64_UsRt1VLkp0lgkXviBCWDQSunTWo1cfXJKzPln2k_Ey-DfwKFcFfdSLDhmgkvgWNky_KOOYjM50nfJiJkIKcBVsQNYFZ5i)
+Exhaustive electrolysis requires a time	 longer.
+Throughout electrolysis, current 	decreases
+How to calculate time from the current?	img(https://blogger.googleusercontent.com/img/a/AVvXsEj9wrw0PXkyKsTMOgI9AS43FvhRLRLG8yvUr4OsJHls_T6JZkyvMv-v5X1q5WvTwTsRjM2dUeeDWP9byG4_B34v_HFE8AQPhuE-3Fv-PedHE_cyuQq2QRTzOTUYDrlZkNrj5QHux4Iv9uXqDpOUP6H3ueIFCK68G4_3_vEIMmL6nrH5RF45e0dAdS7bFqro)
+What is the curve of static potential coulometry	img(https://blogger.googleusercontent.com/img/a/AVvXsEiIxOOPH_Fe_jDPJkJNYnylKFf4kde00x68VRtPIuiQkhfRYirbk5kJPG2GYwWqdIBRlw5yJolOQ2KqR4IhMa-covr4oHO6j7qdJ8il7uwAeHvbsjmb7-QLBrLS2e4k0a81mEyXC-N0BYCuZHcaidmJwRBviB0bceGqnJPYod98qii4-SVdut_KdGxS31ll)
+How to minimize electrolysis time in coulometry? Show with equation.	img(https://blogger.googleusercontent.com/img/a/AVvXsEgy80kT2R33hRWPu0kF1KTSUiCMMKLdSki82buVKNX33Tw0-KJMLji8h5Wmisc88yTN60lmTrszcHU6PHF2Uw6YlUjvAu78n79c0U6EnNNIcfKyMRRFu3VhnmBf-6p6w2WlxWrRIwRyiMgj3ZPd9Z-JiF0xoZKgFbTzVHDyv_Yv7n49uaaufTfUAdpX-D86)
+Instrumentation	A three-electrode potentiostat system is used. Two types of working electrodes are commonly used: 1. Pt electrode manufactured from platinum-gauze and fashioned into a cylindrical tube, and 2. Hg pool electrode.
+For large overpotential in coulometry for reducing H+	 makes the process feasible at a mercury (Hg) electrode but not as feasible at a platinum (Pt) electrode, especially in very acidic solutions.
+Mercury is easily oxidized at	 positive potentials relative to the Standard Hydrogen Electrode (SHE)
+Platinum working electrodes are used when 	positive potentials are required.
+The auxiliary electrode, which is	 often a Pt wire, 
+auxiliary electrode is separated 	by a salt bridge from the solution containing the analyte.
+Necessary to prevent electrolysis products generated at the auxiliary electrode	from reacting with the analyte and interfering in the analysis.
+Reference electrode in coulometry	A saturated calomel or Ag/AgCI electrode serves as the reference electrode
+To find the total charge during electrolysis, one method is	 to track the current over time and calculate the area under the curve on a current vs. time graph.
+How Modern Instruments Monitor Charge 	Use electronic integration to monitor charge as a function of time. The total charge can be read directly from a digital readout or from a plot of charge versus time.
+Applications of potentiostatic coulometry	 Separation of Nickel and Cobalt by coulometric analysis
+Controlled-Current Coulometry	amperstatic or coulometric titrimetry
+What's the titrant in coulometric titration?	electrons
+The current is kept constant until	 an indicator signals the completion of the analytical reaction. 
+Constant current electrolysis is employed to generate	 a reagent which reacts stoichiometrically.
+Advantages of Controlled-current coulometry	1. Less time is required since the current does not decrease. 2. The current-time curve is not necessary. 3. Charge count is easy: With a constant current, the total charge is simply the product of current and time. 4. Standard solution is not required in titrimetry. 5. Unstable reagents, such as bromine, chlorine, silver (II) titanium (III) can be utilized. 6. This method can be readily adapted to remote control.
+How many experimental problems with constant current coulometry	Two problems: 1. when electrolysis occurs the analyte's concentration and the current steadily decrease due to oxidation or reduction. 2. need for a method of determining when the analyte has been exhaustively electrolyzed(endpoint).
+First problem overcoming process	• To maintain a constant current the cell potential must change so that another reaction can not occur in the working electrode. • Unless the system is carefully designed, these secondary reactions will produce a current efficiency of less than 100%.
+The second problem overcoming the process	can't be resolved. Maybe an indicator is used.
+How to detect end point in potetiosatatic	In controlled-potential coulometry this is signaled by a decrease in the current to a constant background or residual current.
+Controlled-current coulometry normally is carried out 	using a galvanostat and an electrochemical cell consisting of a working electrode and a counter electrode.
+The working electrode	 is constructed from Pt
+Why working electrode is called a generated electrode?	 it is where the mediator reacts to generate the species reacting with the analyte.
+Endpoint detection process	1. Chemical indicators, 2. Potentiometric observation, 3. amperometric procedure
+Chemical indicators	• Must not be electro-active • Methyl orange for bromine, starch for iodine, dichlorofluorescein for chloride and eosin for bromide and iodide.
+Example of coulometric titration (See details in Vogel’s) Titration of iron (II) with the large excess of Ce (III) Ce4+ + Fe 2+ → Ce3+ + Fe3+. The quantity of electricity passed is measured Equivalence point is marked by the first persistence of excess Ce (III) in the solution
+A constant current of 0.800 A (amps.) was used to deposit Cu at the cathode and O2 at the anode of an electrolytic cell for 15.2 minutes. What quantity in grams is formed for each product? 	img(https://blogger.googleusercontent.com/img/a/AVvXsEj_UCkBLEaX8Fhcwlv_q25TxupT4bWY0OWEK6U3-z2eepH2_X5GTji5uFr3BZt7RzAnfEfqTUNGcYsEnFxj66zmDCuQPEup4bFo9JtZoYcPoTKTkmKINPQBDrKxJdmqjYYxqDOloSGtqktYp00Y681r9BcEwmCOJ28c7F9StCzZxk34lf0MZ3FYqmfBOwfS)

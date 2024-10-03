@@ -1,0 +1,16 @@
+{
+  "name": "Flash Cards by Card Code Generator",
+  "short_name": "Flash Cards",
+  "description": "Read flash cards and memorize easily.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#333",
+  "theme_color": "#222",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

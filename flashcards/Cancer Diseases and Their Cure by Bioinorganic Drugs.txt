@@ -1,0 +1,16 @@
+You will learn about 	Cancer diseases and their cure by bioinorganic drugs
+Chelation therapy	is a medical procedure to remove heavy metals from the body using chelating agents.
+Mechanism of chelation therapy	these agents bind to heavy metal or toxic metal such as lead, mercury, iron and form a complex that can be excreted from the body.
+Diseases that cause accumulation of Fe and Cu in the body	Sidrosis(Fe), Cupper(Cu)
+Sidrosis disease	is a genetic disorder that causes excessive absorption of iron from the digestive trat, leading to its accumulation in vaious organs.
+Willson's disease	leads to dementia(tendency to forget) and eventually death is caused by an over accumulation of cupper in the liver and brain.
+Reasons for siderosis disease	1. Body cannot produce sufficient porphyrin, 2. Fault in the regulation of Fe levels by ferritin
+Treatment of siderosis	sequestation or seperation of Fe is done by ligands or by sidephores.
+What does iron do in Sidrosis disease	Fe produces harmful free radicals by reaction with O2. Normally Fe level is controlled by regulatory systems.
+Which ligand is used to cure siderosis	Deferoxamine (Desferal's 55)
+Desferal structure	draw
+Cancer	uncontrolled cell growth, invade and spread to other parts of the body
+Cancer cell is killed by 	cis-platin
+Mechanism of killing cancer cell 	cis-platin forms intrastrand and interstrand crosslinks in DNA. It binds to DNA, makes crosslinking between adjacent guanine base. This disrapts the replication and transcription processes. As a result inhibition occur of cell division and ultimately inducing apoptosisor programmed cell death, in the cancer cell. This mechanims finally makes it effective in inhibiting the proliferation of rapidly dividing cancer cells.
+Cis platin mehcanism	draw, image
+DNA sequence 	APGPGPCPCPT TPCPCPGPGPA

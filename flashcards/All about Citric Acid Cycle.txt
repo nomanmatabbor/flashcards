@@ -1,0 +1,18 @@
+The Citric Acid Cycle	also known as the Tricarboxylic Acid (TCA) Cycle or Krebs Cycle, 
+This cycle 	is a cyclic pathway responsible for the oxidation of acetyl-CoA. In each cycle turn, acetyl-CoA combines with oxaloacetate to form citrate, undergoes a series of transformations, and ultimately regenerates oxaloacetate. One acetyl group enters, and two molecules of CO2 are released. No net removal of oxaloacetate occurs, allowing it to participate in multiple cycles. Four of the eight steps involve oxidations, efficiently conserving energy in the form of NADH and FADH2.
+It is called the TCA cycle	Krebs cycle reactions begin with the formation of citric acid which contains three (COOH) carboxylic groups. Hence it is called the T.C.A. cycle.
+Mnemonic to remember TCA cycle	img(https://i.imgur.com/BQ7ep4O.png)
+TCA cycle	img(https://i.imgur.com/HYIJ1aA.png)
+Role of the citric acid cycle in anabolism	img(https://i.imgur.com/F49Q7Ba.png)
+Is the TCA cycle aerobic or anaerobic?	 The TCA cycle is considered aerobic because, although oxygen (O2) is not directly involved in the cycle itself, the regeneration of NAD+ and FAD—essential for the cycle's operation—occurs exclusively in the respiratory chain, which operates in the presence of oxygen. As a result, the TCA cycle is inherently tied to aerobic conditions.
+Significance of Krebs Cycle	img(https://i.imgur.com/cthRH83.png)
+What is the role of the citric acid cycle in Anabolism?	 Ans: Intermediates of the TCA cycle play a role in synthesis like heme formation, FA synthesis, Cholesterol, and Steroid synthesis. 
+What is the role of the citric acid cycle in catabolism? 	Ans: The citric acid cycle serves as the <b>mitochondrial hub for the final steps in carbon skeleton oxidative catabolism</b> for carbohydrates, amino acids, and fatty acids. Each oxidative step, in turn, reduces a coenzyme such as nicotinamide adenine dinucleotide (NADH) or flavin adenine dinucleotide (FADH2)
+What is amphibolic?	The citric acid cycle is amphibolic—that is, both anabolic and catabolic.
+In the Krebs cycle, alpha-ketoglutarate is converted to succinyl-CoA. During this same step, one molecule of __________ is produced.	 Ans: NADH 
+Which gas is produced during the citric acid cycle? 	Ans: CO2
+What is the correct sequence of intermediates in the citrate acid cycle? 	Citrate → cis-aconitate →  isocitrate → alpha-ketoglutarate →succinyl- CoA → succinate → fumarate→ malate → oxaloacetate
+How many molecules of NADH and FADH2 are produced during the conversion of citrate to oxaloacetate?	Ans: 3 NADH (steps 3,4, 8), 1FADH2 (step 6)
+Total ATP produced in TCA	1 NADH= 3 ATP; 1 FADH2= 2 ATP; 1 GTP = 1 ATP; <br>Total ATP produced in TCA = 3 x 3 ATP (step 3,4,8) + 2 ATP (step 6) + 1 ATP (step 5) = 12 ATP
+What is the main purpose of the citric acid cycle?	 Ans: Helps for producing energy for eukaryotic cells( has nucleus) when oxygen is abundant
+Read more	<a href="https://flash.cardcodegenerator.com/flashcards.php?file=flashcards%2FGlycolysis+and+Gluconeogenesis+in+Details.txt">Glycolysis and Gluconeogenesis</a>

@@ -1,0 +1,51 @@
+Electrical properties of solid: Band theory of solid, Band structure of metal. Semiconductor and Insulator, intrinsic and impurity semiconductors, Hall effect, transistors, superconductivity.
+metal crystal consists of positive metal ions according to 	Drude-Lorentz's theory
+why does a metal crystal consist of positive metal ions?	Because the outer electrons are so weakly bound to metal atoms that they are free to roam across the entire metal. Having lost their outer electrons, individual metal atoms are more like positive ions in a swarm of communal electrons. img(https://www.ontrack-media.net/chemistry/cm3l5rimage2.jpg)
+The crystal structure is held by 	the attraction force
+metal crystal every 	classical mechanics rule
+potential field is created by	positive ions and it is uniform throughout the crystal
+Drude-Lorentz theory is about 	the metallic bond
+Drude-Lorentz theory is good	for explaining the properties of metals
+Drude-Lorentz's theory failed	to explain why some solids behave like semiconductors, metals or insulators.
+Energy Bands in solid	electrons are not confined to individual atoms but move collectively. The energy levels of these moving electrons form bands.
+Valence	The highest energy band that is fully occupied by electrons at absolute zero temperature is the valence band. 
+Conduction Bands	The next higher energy band is the conduction band, which is usually empty at absolute zero.
+Band Gap	The energy gap between the valence and conduction bands is the band gap. Materials with an energy gap are classified as insulators or semiconductors, while those without a gap are conductors.
+Fermi level	is the highest energy level that electrons occupy at absolute zero.
+The Fermi factor	refers to the Fermi-Dirac distribution function. It describes the probability of finding an electron in a given energy state in a system at thermal equilibrium. This distribution function is named after physicists Enrico Fermi and Paul Dirac.
+The Fermi-Dirac distribution function	denoted as f(E), is defined as: <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>e</mi><mrow><mo>-</mo><mfrac linethickness="0"><mi>ΔE</mi><mi>kT</mi></mfrac></mrow></msup><mo>+</mo><mn>1</mn><mo>⁄</mo><mo>(</mo><msup><mi>e</mi><mrow><mo>-</mo><mfrac><mi>ΔE</mi><mi>kT</mi></mfrac></mrow></msup><mo>+</mo><mn>1</mn><mo>)</mo></math><br>where,<br>E is the energy of the state, E<sub>f</sub> is the Fermi energy (the energy level of the highest occupied state at absolute zero), k is the Boltzmann constant, and T is the temperature of the system, f(E)= Fermi factor 
+f(E)= 1 means	 E < E<sub>f</sub> at T → 0K<br>That means, all states having energy less than E<sub>f</sub> are occupied but higher energy states are unoccupied
+As the temperature increases, electrons lying near the E<sub>f</sub>, have sufficient thermal energy to occupy higher energy states (conduction band).
+The probability of occupying electron by the higher energy level at absolute temperature than fermi is	Electrons occupied probability in higher= f(E)= 0, if E > E<sub>f</sub> at T → 0𝐾, 
+When the probability of occupying an electron is 50%?	F(E)=1/2, if E = E<sub>f</sub>; that means 50% or equal probability.
+Intrinsic Semiconductor 	An intrinsic semiconductor is a pure semiconductor without intentional impurities. It has an equal number of electrons and holes, and its Fermi level lies midway between the conduction and valence bands. 
+Examples of intrinsic semiconductors	pure silicon and germanium.
+Fermi Energy of Intrinsic Semiconductor Lies	halfway between Conduction and Valance bands img(https://www.physics-and-radio-electronics.com/electronic-devices-and-circuits/semiconductor/intrinsic-semiconductor/images/fermi-level-in-intrinsic-semiconductor.png)
+Band structure of metal, Semiconductor and Insulator	img(https://byjus-answer-creation.s3.amazonaws.com/uploads/10439_Chemistry_62e9fbd11884b1a484f486fb_.jpg_img_upload_solution_2022-08-10%2012:34:45.870118.png)
+impurity semiconductors	Impurity semiconductors, also known as extrinsic semiconductors, are semiconductor materials intentionally doped with specific impurity atoms to modify their electrical properties. 
+Types of impurity semiconductor	N-type and P-type.
+N-type semiconductors	 have added electrons
+Dopants of n-type	Typically, elements from Group V of the periodic table, such as phosphorus or arsenic, are used. The dopant introduces extra electrons (n- negative) (negative charge carriers) into the crystal lattice, increasing the electron concentration. These extra electrons are often referred to as "donors."
+Dopants of p-type	Typically, elements from Group III of the periodic table, such as boron or gallium, are used. The dopant creates "holes (p- positive)" in the crystal lattice, which can accept electrons. This leads to an excess of positive charge carriers, and these holes are often referred to as "acceptors."
+P-type semiconductors 	have introduced holes.
+Hall effect	The Hall effect is a phenomenon where a voltage is generated perpendicular to both the current flow and an applied magnetic field in a conductor. <br>It's used for measuring magnetic fields and determining charge carrier properties in materials. 
+Show hall effect in diagram	img(http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/imgmag/hall.png)
+The work function of a crystal	The work function of a crystal refers to the minimum amount of energy required to remove an electron from the surface of the crystal and move it to a point just outside the crystal. In other words, it is the energy needed to overcome the electrostatic forces that bind electrons to the crystal lattice.
+Metal-metal junction	The connection point of two different metals.
+Fermi Level Alignment in metal-metal junction	The Fermi levels of the two metals may not necessarily align. There can be a difference in the Fermi energy levels of the two metals.
+Charge Redistribution in Metal-Metal Junction	Due to the difference in Fermi levels, there can be a redistribution of charge carriers (electrons) at the junction. Electrons may move from the metal with a higher Fermi energy to the metal with a lower Fermi energy.
+Contact Potential in the Metal-metal Junction	The difference in Fermi levels gives rise to a potential difference at the junction, known as the contact potential or built-in potential. This potential difference affects the electronic properties of the junction.
+Schottky Barrier in metal-metal junction	In certain cases, the difference in Fermi levels can create a barrier for electron flow at the junction, known as a Schottky barrier. This barrier can influence the electrical behaviour of the metal-metal junction.
+Work function in the case of Fermi energy	It represents the energy difference between the Fermi level and the vacuum level
+Work function equation in the case of fermi energy	ϕ = E<sub>F</sub> - E<sub>v</sub><br>where, E<sub>F</sub> is the fermi energy and E<sub>v</sub> is the energy of the valence band edge. img(https://flash.cardcodegenerator.com/images/fermi%20level%20in%20metal%20metal%20junction.png)
+Thermocouple	A thermocouple is a temperature sensor that consists of two different types of metal wires joined at one end, forming a junction. 
+Thermocouple basic principle	The basic principle behind a thermocouple is the Seebeck effect, which states that when there is a temperature difference between the two ends of the metals, it generates a voltage.
+Seebeck Effect	The voltage generated at the junction of the two different metals is proportional to the temperature difference between the hot and cold ends.
+Metal Combinations of Thermocouples	Thermocouples use different combinations of metals, such as iron and constantan, or chromel and alumel, depending on the temperature range and sensitivity required.
+Reference Junction in Thermocouple	The cold end of the thermocouple serves as a reference junction, and the temperature at this junction needs to be known or compensated for accurate temperature measurements.
+Applications of thermocouple	Thermocouples are widely used for temperature measurement in various industries, including HVAC systems, industrial processes, scientific research, and home appliances.
+Types of thermocouples	There are different types of thermocouples, each with specific temperature ranges and characteristics. Common types include Type K, Type J, and Type T.
+Thermocouple diagram	img(https://i0.wp.com/instrumentationblog.com/wp-content/uploads/2020/02/Thermocouple-Diagram.png)
+Transistors	A transistor is a semiconductor device that can amplify or switch electronic signals. It has three terminals and comes in two main types: bipolar junction transistors (BJTs) and field-effect transistors (FETs). Transistors are fundamental in electronics, used for amplification, signal modulation, and switches in a wide range of applications.
+Superconductivity	is a phenomenon where certain materials, at extremely low temperatures, exhibit zero electrical resistance and expel magnetic fields. This property has applications in technologies like MRI, Maglev transportation, and high-speed digital circuits.
+Next chapter	<a href="https://flash.cardcodegenerator.com/flashcards.php?file=flashcards%2FMagnetic+and+Optical+Properties+Full+Chapter.txt">Magnetic and optical properties</a>

@@ -1,0 +1,24 @@
+We will learn	each of the content with a better understanding including figures and reactions.
+Amino acids in animals undergo oxidative degradation	 in three scenarios: 1. during normal protein turnover, 2. in cases of excess dietary protein, and 3. during starvation (অনাহার) or uncontrolled diabetes when cellular proteins serve as a fuel source.
+Catabolism of amino acids	Overview of amino acid catabolism in mammals. The amino groups and the carbon skeleton take separate but interconnected pathways. img(https://i.imgur.com/i3S8ei0.png)
+4 important Catabolism of amino acid	1. Transamination, 2. Deamination, 3. Ammonia transport, 4. Urea cycle, 
+The transamination	transfer of an amino group from amino acid to keto acid is catalysed by a group of enzyme transaminases (aminotransferases). example: img(https://i.imgur.com/hXmy0pB.png)
+Characteristic Transamination	1. It is reversible: anabolism and catabolism, 2. it drives excess energy to energy production, 3. no free ammonia, only transfer occurs. 4. lysine, threonine, proline and hydroxyproline (patla) don't participate in transamination. 5. it is not restricted to the alpha-amino group. 6. The sigma amino group and summation amino group undergo readily transamination. 7. The liver, kidney, heart and brain have an adequate amount of these enzymes.
+Metabolic significance of transamination reaction	1. mechanism of producing common product L glutamate. 2. The alpha-amino group can be removed directly, 3. reversible, 4. it is required to make non-essential amino acids.
+Clinical significance of transamination	in clinical measurement to identify diseases such as liver, and heart damage, these amino acids are very important
+Role of glutamate	1. centre place in amino acid metabolism, 2. collector of the amino group, 3. all amino acids can be concentrated into glutamate. 4. L glutamate undergoes deamination, 5. ammonia formation can also be done.
+Non-oxidative deamination	direct deamination, without oxidation: img(https://i.imgur.com/hROJoOW.png)
+Amino acid desulfhydrases	img(https://i.imgur.com/V3566eN.png)
+Metabolism of ammonia	img(https://i.imgur.com/Iaw6Ddr.png)
+Transport of Ammonia	1. Since ammonia is highly toxic, it is never transported in free form in blood. 2. two mechanisms to go to the liver from peripheral tissues:<br>i. transportation of ammonia in the form of glutamine, ii. alanine
+Transport of ammonia in the form of glutamine	Or, synthesis of glutamine and its conversion to glutamate: img(https://i.imgur.com/mrLrH03.png)
+Transport of ammonia in the form of alanine	muscle to the liver through glucose alanine cycle: img(https://i.imgur.com/OBAqcTs.png)
+Ammonia toxicity	1. harmful to bran. 2. ammonia accumulation causes slurring, blurring, coma, and death. 3. less urea formation leads to hyperammonemia. 4. hepatic coma, mental retardation.
+Functions of ammonia	1. to synthesise non-essential amino acids, purine, and pyrimidine 2. acid-base balancing in the body
+Urea cycle	The cycle and reactions that feed amino groups into the cycle and form urea. 
+The enzymes catalyzing these reactions are distributed between the mitochondrial matrix and the cytosol. One amino group enters the urea cycle as carbamoyl phosphate, formed in the matrix; the other enters aspartate, formed in the matrix by transamination of oxaloacetate and glutamate. 
+Steps in the urea cycle	The urea cycle consists of four steps. (1) Formation of citrulline from ornithine and carbamoyl phosphate (entry of the first amino group); the citrulline passes into the cytosol. (2) Formation of argininosuccinate through a citrulline-AMP intermediate (entry of the second amino group). (3) Formation of arginine from argininosuccinate; this reaction releases fumarate, which enters the citric acid cycle. (4) Formation of urea; this reaction also regenerates ornithine.
+Urea cycle diagram	img(https://i.imgur.com/9MgG8Cl.png)
+The urea cycle and the citric acid cycle can be linked 	by argininosuccinate
+Summary of amino acid catabolism	 Amino acids are grouped according to their major degradative end product. Some amino acids are listed more than once because different parts of their carbon skeletons are degraded to different end products. The figure shows the most important catabolic pathways in vertebrates, but there are minor variations among vertebrate species. Threonine, for instance, is degraded by at least two different pathways (see Figs 18-19, 18-27), and the importance of a given pathway can vary with the organism and its metabolic conditions. The glucogenic and ketogenic amino acids are also delineated in the figure, by color shading. Notice that five of the amino acids are both glucogenic and ketogenic. The amino acids degraded to pyruvate are also potentially ketogenic. Only two amino acids, leucine and lysine, are exclusively ketogenic.
+Pathways of Amino Acid Degradation or Catabolism	img(https://i.imgur.com/S0fNHzK.png)

@@ -1,0 +1,22 @@
+differential pulse voltammetry	one potential is applied for each drop
+Small pulses of 	constant amplitude are superimposed on a linear potential ramp applied to the working electrode
+height of the pulse is called 	its modulation amplitude
+Potentials are applied 	just before the end of each drop
+Each pulse of magnitude	 5-100 mV is applied 
+when applied 	during the last 60 ms of the life of each mercury drop.
+used to measure	 trace levels of organic and inorganic species
+diagram	img(https://blogger.googleusercontent.com/img/a/AVvXsEjG8jp7emYL9rW8GItcQfo4i8yTVREtu2lQoCk3kWFkzStav_NSEXvlDyqkhaC4x6owkvqExSDMWt3EIChSUwpNa2HHTw9mH5O7QzvvJgf1E6gkjKLp8SFOsxoWjtgP4rb3JjX4LPKP3P4CejOR18XRlbfUOVKeSazMSj05bqoIvHkJ3qDL95ludi-YSyVd)
+current sampled twice	 before the pulse (1) and 40ms after the pulse begins (2) img(https://blogger.googleusercontent.com/img/a/AVvXsEiAf0fAWU42b_LpowplHRHoDo3IpRu6farfhbnXJLLR4lpBfjjxfu0VNlsypYgCnnUgVJOSxJ-39ly41b-vX_Cs_UA7-kz0OaatAPBAXJy7LDbKEj_WinSM55lYrgmsnxwjGagEepq4AKPCen7w04sv_E4gYj9_vKXqHdwKfoGmSrrUJB_1PNLpeWiOaAhp)
+The charging current contribution to the differential current	 is negligible
+The detection limit is	 as low as 10-8 M (~ 1 μg/L)
+What is charging current?	
+dpv Consists of 	current peaks
+The height of peaks is	 directly proportional to the concentration of analyte
+The peak-shaped response exhibits 	higher resolution than DC polarography
+- The peak potential (Ep) occurs	 near the polarographic half-wave potential and 
+Ep can be used to 	identify the species
+calculate Ep img(https://blogger.googleusercontent.com/img/a/AVvXsEi3BI_oFgVfVRqU2hR6hiWcwf1ypjq9UJmmpTbBtxJsk71VvcIeVtRLiKoLdtbRTX-zjDh44W1UeUGiAVM6XzjG_kKl5f72c1lhcKTfJOpZ0bYD2WsqkINeJxBkNggd0C6ebU7TufgwJfh8xH10213gX7WHocslf4Qb2LAlQtgSm_VQCTTIc5SkoKCua_Ho)
+calculate W1/2 img(https://blogger.googleusercontent.com/img/a/AVvXsEi3BI_oFgVfVRqU2hR6hiWcwf1ypjq9UJmmpTbBtxJsk71VvcIeVtRLiKoLdtbRTX-zjDh44W1UeUGiAVM6XzjG_kKl5f72c1lhcKTfJOpZ0bYD2WsqkINeJxBkNggd0C6ebU7TufgwJfh8xH10213gX7WHocslf4Qb2LAlQtgSm_VQCTTIc5SkoKCua_Ho)
+Typical Normal pulse and Differential Pulse Voltammetry diagram	img(https://blogger.googleusercontent.com/img/a/AVvXsEj73DgQ1mTImWFcKFE6Bq5ae-E28IbSEUk9-USDwxsDaM6jWMZKd2NHBRxfivo-2CwSGv-gzrJYp2gfQtzprdaOb7VPtRi3Z3aPROy-IMGFQOhJLt50dYkcv-ONyQfrJgqapNUu65lXDyscxalxzv_lEGcO8PTTG1IiaQYA7CAGjEgmGp0QSwafH-rGq_Rr)
+dpv application	mixture analysis
+provide a lower and broader beak for 	the irreversible redox system

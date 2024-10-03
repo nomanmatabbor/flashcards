@@ -1,0 +1,53 @@
+This topic contains Vitamin	Definition, classification, structures, occurrences, the effect of deficiency and human requirements
+Nutreint	Calories per gram
+carbohydrates	4
+fat	9
+protein	4
+vitamin, mineral, water	0
+Supplements, what are they? 	Synthetic or natural substances which can be purchased as pills, tablets, capsules, wafers, powder or liquids.
+A vitamin	is 1) a natural organic compound that 2) distincts from fats, carbohydrates and proteins, 3) prevents specific deficiency syndrome, 4) can not be synthesized by the host. 
+Fat-soluble Vitamins and properties	A, D, E, K (Mnemonic: KADE), dissolved in fat and carried by fat, stored in liver and fatty tissues, not readily excreted from body
+Water soluble vitamins	B complex, and C, dissolved in water and carried by water, stored in limited amounts and travel in the blood, readily excreted from the body through urine
+B complexes and their deficiency diseases mnemonic	Beri Cracks the floor Playing with Papan and become sad img(https://flash.cardcodegenerator.com/images/vitamin%20B%20complexes%20deficiencies.png)
+Vitamin	Source; Chemical Name; Deficiency Diseases; Structure
+A	Milk, butter, green vegetables, and liver especially of fish; Retinol, Retinal, Retinoic acid; Night-blindness and keratomalacia img(https://st5.depositphotos.com/5891300/66978/i/450/depositphotos_669781062-stock-photo-chemical-organic-formula-vitamin-diagram.jpg)
+D	Photochemical reaction, fish liver oils, and is added to commercial milk as a nutrient supplement; Sunshine vitamin, Ergocalciferol (D2), Cholecalciferol (D3); Rickets and Osteomalacia, defective bond formation img(https://www.researchgate.net/publication/286628922/figure/fig2/AS:667695720697861@1536202473483/Molecular-structure-of-vitamin-D-2-and-vitamin-D-3-Used-with-permission-from-the.png)
+E	Hens’ egg and vegetable oils, and are especially abundant in wheat germ; Tocopherol, Sex vitamin; Mild hemolytic anaemia in newborn infants, Sterility. low sex drive img(https://www.abcam.com/ps/products/142/ab142968/Images/ab142968-1-ab142968-Vitamin-E-DLalphaTocopherol-Structure-CAS-10191410.jpg)
+Κ	Vitamin K1 occurs in alfalfa, cabbage, spinach, and carrot tops, and vitamin K2 occurs mainly in the bacteria; Napthaquinone: Phylloquinone (K1), Menaquinones (K2); Bleeding diathesis (Haemorrhage) or clotting problem img(https://eu-images.contentstack.com/v3/assets/blt2183a7e3152cc969/bltf66a52db2bcf018a/64b13f3f5ba8867b5782863f/b180207aac8940cc95637784a1a4f42d.jpg)
+B complexes	B1,B2,B3, B5,B6,B7, B9, B12
+B1	Rice polishing, wheat, egg, meat, bean, yeast, liver, and kidney; Thiamine; Beriberi img(https://www.psychocare.biz/wp-content/uploads/2022/06/Thiamine.jpeg)
+B2	Milk, green vegetable, and yeast; Riboflavin, Lactoflavin; Ariboflavinosis, body growth affect img(https://www.chm.bris.ac.uk/webprojects2002/schnepp/riboflavin.jpg)
+B3	Animal and plant foods; Niacin, Niacinamide; Pellagra, weight loss, digestive disorders, depression, and dementia img(https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xany/6/4/6/145646_shutterstock_715355875.jpg)
+B5	Liver, kidney, yeast, animal tissues, egg yolk; Pantothenic acid; Paresthesia or Acne img(https://img.freepik.com/premium-vector/vitamin-b5-pantothenic-acid-pantothenate-molecule-chemical-skeletal-formula-vector-illustration_833685-619.jpg)
+B6	Rice bran and yeast; Pyridoxine, Pyridoxamine, Pyridoxal; Anemia peripheral neuropathy, dermatitis in rats, epilepsy, hyper irritation, and disturbances in the central nervous system img(https://c8.alamy.com/comp/K76G1D/vitamin-b6-pyridoxine-molecule-skeletal-formula-K76G1D.jpg)
+B7	Egg yolk; Biotin; Dermatitis and animal growth problem img(https://www.biotage.com/hubfs/ANALYTICAL/IMAGES/CATALOG/PRODUCT%20PAGES/Structure%20Vit%20B7%20AN880.jpg)
+B9	Yeast, spinach; Folic acid, Folinic acid; Neural tube defects, anemia img(https://www.softschools.com/formulas/images/folic_acid_formula_1.png)
+B12	Liver; Cyanacobalamine; Megaloblastic anemia or pernicious anemia img(https://www.researchgate.net/publication/351055936/figure/fig1/AS:1035071268085761@1623791629461/The-chemical-structure-of-vitamin-B12.png)
+C	Juice of lemons, oranges, and fresh vegetables; Ascorbic acid; Scurvy, bleeding gums, and swollen joints (Mnemonic: C means civit -> teeth, gums problem, bleeding in gums, scurvy, joint pain, bone fracture); img(https://www.worldofmolecules.com/antioxidants/vitamin-c-molecular-structure.jpg)
+Beriberi causes	inflammation of nerves and heart failure, difficulty walking, loss of feeling, paralysis, mental confusion, speech difficulty, and pain.
+Ariboflavinosis	Sores (ghaa) on the mouth.
+Pellagra steps	Diarrhea -> Dermatitis -> dementia -> death (4D)
+Dermatitis is	a general term that describes a common skin irritation.
+Vitamin D formation reaction	img(https://flash.cardcodegenerator.com/images/vitamin%20d%20formation.png)
+Vitamin K feature	acts in the formation of prothrombin, a blood plasma protein essential in blood clot formation. That is why its deficiency causes blood haemorrhage.
+Hematopoietic vitamins 	are used for the formation of blood or blood cells. It is found in bone marrow, liver, and spleen. In the hematopoietic system, Hematopoiesis occurs. Hematopoiesis is the process through which the body manufactures blood cells. Hematopoiesis begins during the first weeks of embryonic development.
+Why are B vitamins called energy vitamins? 	because vitamin B complexes help energy-yielding nutrients (such as carbohydrates, fat and protein) to generate energy as coenzymes. 
+Which vitamin is toxic to viruses, bacteria, and some malignant tumour cells?	vitamin C
+Only L-Ascorbic acid 	is the vitamin C
+Antioxidant	 is defined as a compound that is able to neutralize free radicals, such as oxygen, nitrogen and lipidic radicals and protect a biological system. It is a man-made or natural substance. 
+Antioxidant do	It protects cells from the damage caused by free radicals (unstable molecules that are made by the process of oxidation during normal metabolism). 
+Which vitamin has antioxidant substances?	Vitamins A, C and E contain antioxidant substances
+What does vitamin B1 do?	 Producing energy from carbohydrates. Proper nerve function. Stabilizing the appetite. Promoting growth and good muscle tone. ATP production. Prevent complications in the nervous system brain & heart
+What does vitamin B2 do? 	Energy production from carbohydrate, fat, and protein metabolism. Formation of antibodies and red blood cells. Cell respiration. Maintenance of good vision, skin, nails, and hair. Alleviating eye fatigue.
+What does vitamin B3 do? Energy production. Maintenance of skin and tongue. Improves blood circulation Maintenance of the nervous system. Health of the digestive tract. Helps lower cholesterol and arthritis Reduction of tiredness and fatigue Normal functioning of the brain & boosts memory.
+What does vitamin B6 do? 	 Production of red blood cells Immunity, maintaining healthy hair, skin and vision Nervous system functions & helps make hormones Reducing muscle spasms, cramps, and numbness Maintaining the proper balance of sodium and phosphorous in the body & disease prevention.
+What does vitamin B12 do?	
+Proper nerve function Production of red blood cells Metabolizing fats and proteins Prevention of anemia DNA reproduction Energy production
+Signs of Deficiency for Vitamin A 	Night blindness Decreased resistance to infections. Extremely dry skin, hair or nails. Xerophthalmia eye disease. Salivary glands lose and secrete saliva. Nausea Weakness & dermatitis.
+What does vitamin A do? 	 Promotes good vision  Generates pigments for the retina  Maintains surface lining of eyes  Helps bone growth  Regulates immune system  Helps to make healthy skin
+Osteomalacia	bone softening disorder causes a deficiency of vitamin D.
+What does vitamin D do? 	 Builds healthy bones and teeth  D helps regulate the amount of Ca and P in the body  Supporting immune, brain, and nervous system health
+What does vitamin E do?	 Protects cell membranes and other fat-soluble parts of the body (LDL cholesterol) from oxidation. May reduce the risk of heart disease. May also discourage the development of some types of cancer. Promotes normal growth and development. Promotes normal red blood cell formation. Acts as an anti-blood clotting agent. Plays some role in the body’s ability to process glucose. Also been known to aid the process of wound healing.
+Freezing foods may destroy vitamin 	K, but heating has no effect
+Signs of Deficiency for K 	Antibiotics will interfere with the normal production of Vitamin K in the intestine Gallbladder or biliary disease Liver disease Ongoing diarrhea Heavy menstrual bleeding Vitamin K stores are typically low in newborns and are at risk of hemorrhage This is why infants are given vitamin K injections within 6 hours of delivery
+What does vitamin K do?	 • K is what the body needs to stay healthy. • It is important for blood clotting and healthy bones. • It decreases fracture risk and important role in healing wounds. • Protection against heart disease and protest cancer.

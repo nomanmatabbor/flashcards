@@ -1,0 +1,37 @@
+Crystal Defects: Perfect and imperfect crystals. Types of crystal defects, thermodynamics and equilibrium concentration of intrinsic defects. Creation and properties of colour centres, the influence of defects on physical properties of solids, non-stoichiometry, Solid solution
+Perfect and imperfect crystals	All the atoms are at rest on their correct lattice positions in the crystal structures. A perfect crystal is hypothetically obtained at absolute zero temperature. At all real temperatures, crystals are imperfect.
+Defect often makes a crystal more stable	Presence of defects up to a certain concentration leads to a reduction of free energy. In simple terms, a system can be more stable if it has some defects, but only up to a certain amount.And reduction in free energy often corresponds to increased stability in a system.
+Configurational entropy	Configurational entropy is like counting the different ways tiny particles can be arranged in a system while still maintaining the same macroscopic properties. It helps us understand how messy or orderly things are at the tiniest level.
+Equation to calculate configurational entropy	S = k lnW<br>S is the configurational entropy, k is the Boltzmann constant <math xmlns="http://www.w3.org/1998/Math/MathML">(k &#8776; 1.38 &#8290; &#8290; 10<sup>-23</sup> J/K)</math>, ln denotes the natural logarithm, W is the number of microstates associated with a particular macrostate
+Gibbs free energy equation	∆𝐺 = ∆𝐻 − 𝑇∆𝑆
+Energy changes figure due to defect (introducing) in perfect crystals	img(https://i.imgur.com/Do1xqGm.png)
+Types of crystal defects or imperfections	Point defects, line defects, plane defects
+Point defects	Interstitial, schottky, frenkel
+Line defect	Edge dislocation, screw dislocation
+Plane defect	Lineage boundary, grain boundary, stacking fault
+Interstitial defect	extra atom in an interstitial site
+Schottky defect	atom missing from correct site img(https://cdn1.byjus.com/wp-content/uploads/2021/06/Schottky-Defect-700x487.png)
+Frenkel	atom displaced to interstitial site creating nearby vacancy img(https://cdn1.byjus.com/wp-content/uploads/2021/06/Frenkel-Defect-700x294.png)
+Difference between schottky and frenkel defect	img(https://i.imgur.com/AZEbGOq.png)
+Edge dislocation	row of atoms making the edge of a crystallographic plane extend not all the way but stop partway in the crystal
+screw dislocation	row of atoms about which a normal crystallographic plane appears to spiral
+Figure of edge and screw dislocation	img(https://facts.net/wp-content/uploads/2023/09/8-astounding-facts-about-edge-dislocation-1694222734.jpg)
+lineage boundary	boundary between two adjacent perfect regions in the same crystal that is slightly tilted (slope) with respect to each other img(https://storage.googleapis.com/tb-img/production/18/09/GATE%20ME_Materials%20Science%20and%20Engineering%20Part-1_Madhu_images_Q18.PNG)
+grain boundary	boundary between two crystals in a polycrystalline solid img(https://www.engineeringarchives.com/img/les_matsci_surfacedefects_1.png)
+stacking fault	Stacking sequence means the order in which the layers are arranged. Stacking fault means the boundary between two parts of a closet packing having alternate stacking sequences img(https://msestudent.com/wp-content/uploads/2021/11/stacking-fault.svg)
+Colour defect	F-center, H-center, V-center
+F-centre	color center. F-centres arise due to the presence of an electron trapped at a vacant site in the crystal lattice, contributing to the absorption and emission of light and, consequently, the colour of the crystal. img(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NaCl_-_F-center.jpg/800px-NaCl_-_F-center.jpg)
+H-center	hole centers. This involves a hydrogen atom (hole) trapped in a lattice vacancy. H-centres can influence the optical (can affect the absorption and emission of light, leading to changes in colour or transparency) and electronic properties of the crystal img(https://i.imgur.com/aJX3Ccl.png)
+V-center	Vacancy Center. A V-center, or vacancy centre, is created when an atom is missing from its regular lattice position, creating a vacancy. This type of crystal defect can also influence the optical (can affect the absorption and emission of light, leading to changes in colour or transparency) and electrical characteristics of the material. img(https://sciencevision.in/wp-content/uploads/2020/07/12_chem_solidstate_Q6.png)
+Intrinsic defects	Intrinsic defects are, natural and without the influence of external impurities, and imperfections in a material's crystal lattice, like vacancies or extra atoms, influencing its properties.
+Thermodynamics and equilibrium concentration relation for intrinsic defects	The concentration of intrinsic defects at equilibrium is often described by the Arrhenius equation:<br><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi><mi>i</mi><mo>=</mo><msub><mi>n</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><mfrac linethickness="0"><mrow><mi>k</mi><mi>T</mi></mrow><msub><mi>E</mi><mi>m</mi></msub></mfrac></mrow></msup><mtext> where </mtext><msub><mi>n</mi><mi>i</mi></msub><mo> is the equilibrium concentration,</mo><msub><mi>n</mi><mn>0</mn></msub><mo> is a constant,</mo><msub><mi>E</mi><mi>m</mi></msub><mo> is the migration energy for defects,</mo><mi>k</mi><mo> is the Boltzmann constant, and </mo><mi>T</mi><mo> is the temperature.</mo></math>
+
+influence of defects on physical properties of solids	1. Mechanical: Influence strength, hardness, and ductility.<br>2. Electrical: Affect conductivity due to point defects.<br>3. Thermal: Alter thermal conductivity by scattering photons.<br>4. Optical: Create colour centres for specific colours.<br>5. Chemical: Influence reactivity and chemical behaviour.<br>6. Magnetic: Introduce magnetic moments, affecting magnetism.<br>7. Electronic: Modify band structure, impacting bandgap and carrier mobility.<br>8. Dimensional Stability: Influence expansion and contraction behavior.
+non-stoichiometric materials	where the ratio of elements deviates from simple integer values.
+influence of defects on non-stoichiometry	Defects in non-stoichiometric materials influence conductivity, colour, thermal and mechanical properties, reactivity, magnetism, and phase stability.
+Solid solution	A solid solution is a uniform mixture of different elements or compounds within the same crystal structure, influencing material properties like hardness and conductivity.
+Types of solid solution	Substitutional and Interstitial solid solution
+In a substitutional solid solution	atoms or ions from one element substitute those of another in the crystal structure, typically when they are similar in size and properties.
+In an interstitial solid solution	smaller atoms or molecules fit into the spaces between larger atoms in the crystal lattice, often seen in alloys and specific compounds.
+Influence of defects on Solid solution	Defects influences solid solutions by shaping their formation, stability, and properties. They enhance atomic mobility, allow for alloying, provide concentration control, and impact phase stability, crucial for optimizing material characteristics.
+Read next chapter	<a href="https://flash.cardcodegenerator.com/flashcards.php?file=flashcards%2FElectrical+Properties+of+Solid+Full+Chapter+in+Details.txt">Electrical properties of solids</a>

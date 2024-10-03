@@ -1,0 +1,29 @@
+Read first	Polarographic basic
+Limitation of DC polarography	1. Can't measure less than 10^-5 M analyte conc.
+If two components have 0.2 V half-wave potential difference	they can't be detected by DC polarography
+This is due to 	the condenser current associated with the charging of each mercury drop as it forms
+To overcome this problem 	We have to do (a) pulse polarography (b) rapid scan polarography (c) sinusoidal a.c. polarography (d) stripping analysis
+To solve the condenser's current issue who made an effort	Barker and Jenkin
+How they did do it?	• By application of the potential in a series of pulses; • One pulse of approximately 0.05-second duration being applied during the growth of a mercury drop, and • At a fixed point near the end of the life of the drop. • Two different procedures be employed: (a) pulses of increasing amplitude may be superimposed upon a constant d.c. potential, or (b) pulses of constant amplitude may be applied to a steadily increasing d.c. potential img(https://blogger.googleusercontent.com/img/a/AVvXsEhvDXkJnhIdMmlsZz_WlNKpgmczWkYhW3oCRbt-hcOLPziM6VheQxY7hVbxqp9I7Gv5NWwb6ahx9fES4ydBevdh2zQmjyVW_hoyRlOx5PUKULMTQcGE2lgKdZhitdgzpCwDLb_s9L2bP6yUgOHvWjR-izvCrpvJqwvFH9rIngz-xgAzfdc6a8cKEMjjCUfy)
+Pulse amplitude	height of the potential pulse
+Pulse width	duration of the pot pulse
+sample period	time at the end of the pulse during which the current is measured
+potential cycle calculated from 	pulse period and drop time
+Pulse voltammetry is a 	voltammetry technique which makes use of potential pulse
+potential steps having a duration of about 	50 ms, 
+steps are applied to the 	working electrode
+After each potential step- charging current and faradaic current decays 	rapidly exponentially to a negligible value and slowly 
+observed current excludes 	charging current, as it is late in pulse life
+detection time of pulse voltammetry 	low- 10^-8 M levels
+There are different pulse voltammetric techniques based on	 the excitation waveform and the current sampling regime
+These are 	- Normal-Pulse Voltammetry, - Reverse-Pulse Voltammetry, - Differential-PulseVoltammetry, - Square-Wave Voltammetry, - Staircase Voltammetry
+NPV (Normal-Pulse Volatemtry)	one potential pulse is applied for each drom of mercury using DME, increasing amplitude applied to successive drops, Electrode is kept at a base potential between pulses at which no reaction occurs, Base potential is kept constant
+NPV Pulse amplitude increases	 linearly
+npv Current is measured about	 40 ms after each pulse is applied
+npv Diffusion layer is 	thinner than that of DC polarography due to the short pulse duration
+npv Higher faradaic current	 than DC polarography
+npv Voltammogram has a 	sigmoidal shape
+Limiting current equation	img(https://blogger.googleusercontent.com/img/a/AVvXsEhlpeq0X5Ts43ApYoCCDmAOt6ZdyB9nkzsaf2I3xV2Tq97CUvQZEGLTdvY3NT4533yCOqafUN8Iro4XBb5izI5BtrYgabKzHMSgDxjTj2Q9bFQvq_2lkfzgT673d3DFfmLDv4nqzuE0JBRD2IxSF-9ryWMrEsvCvruFbTaVngrqj7PYE2RpHL4BG6MqmkrG)
+npv Comparison with dc polarography	5-10 times more sensitive, advantageous for solid electrodes, diffusion layer is thinner due to short pulse duration, higher faradic current, zero charging current.
+Relation of polarography dc and npv	 img(https://blogger.googleusercontent.com/img/a/AVvXsEjmJeh9BNKzWZTTR95XLvgdxt-RL5oH5-ew4Soyi8OjGnby6oofytEyLrBZmu0PlmP9G7jnlzCBZqxM84qg3L5yh0_syBCEEY6viHgo9mzk-q28CJnBT5F8e1qg2RjH0jwIzfd4nSRA3JSLX_yDMRedMsvSfj8vRgfYPhih7wvCht8-DML6_AlUWiofs3Rj)
+Differential-Pulse Voltammetry	<a href="">Read here</a>

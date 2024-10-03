@@ -1,0 +1,13 @@
+Solid State Chemistry and Crystallography
+Scope of Solid State Chemistry	studies about solid materials, their synthesis, properties and structures (crystal, electronic).
+Application of Solid State Chemistry	new material synthesis, drug design, catalysis and energy storage calculation
+Techniques in Solid State Chemistry	X-ray diffraction, electron microscopy and spectroscopy
+Scope of Crystallography	Determination of 3D atomic arrangements in crystal
+Application of Crystallography	drug discovery and material design, molecular structure elucidation
+Techniques	X-ray crystallography
+Crystalline and amorphous solids difference	img(https://psiberg.com/wp-content/uploads/2022/04/table-amorphous-solids-vs-crystalline-solids-fig.svg)
+Isotropic means	Various physical properties such as conductivity, refractive index, thermal expansion etc. are the same in all directions.
+Anisotropic means	Various physical properties such as conductivity, refractive index, thermal expansion etc. are not the same in all directions.
+Characteristics of liquid crystals	1. Molecules are arranged orderly but lack long-range order.<br>2. exist in different phases like cholesteric, and nematic.<br>3. unique optical interaction. <br>4. Mainly in screens like TVs and phones.<br>5. Optical orientation changes by controlled temperature and electric fields.
+Difference between isomorphism and polymorphism	img(https://i.imgur.com/AC9UUly.png)
+Read next chapter	<a href="https://flash.cardcodegenerator.com/flashcards.php?file=flashcards%2FCrystal+Structure+Full+Concept+with+Diagrams.txt">Crystal structure</a>

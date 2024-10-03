@@ -1,0 +1,46 @@
+Magnetic and optical properties: Magnetic properties of metals. Optical properties: Luminescene, Lasers, Photocopying process.
+Magnetic Materials	Diamagnetic, Paramagnetic, Ferromagnetic, Anti-ferromagnetic, Ferrimagnetic
+Electron spin in various magnetic materials	img(https://i.imgur.com/3eESpw6.png)
+The behaviour of diamagnetic and paramagnetic substances in a magnetic field	img(https://haygot.s3.amazonaws.com/questions/1676421_1781618_ans_e8c5c860105f49c7b3ddd19d32a278d1.png)
+The Meissner effect	is a phenomenon observed in superconductors, where they expel magnetic fields from their interior. When a superconductor transitions to its superconducting state, it actively excludes magnetic flux lines from entering its interior. This expulsion of magnetic fields is a distinct characteristic of superconductivity.
+The Meissner effect results	in perfect diamagnetism
+superconductor becomes a strong	diamagnetic material, actively repelling magnetic fields.
+Levitation in superconductor	Due to the Meissner effect, a superconductor can levitate above a magnet, maintaining a fixed distance. This levitation phenomenon is used in applications like Maglev trains.
+Beyond Critical Magnetic Field	The Meissner effect is limited by a critical magnetic field. Beyond this threshold, the superconductor begins to allow penetration of magnetic flux, and its superconducting properties are compromised.
+SQUID	SQUID (superconducting quantum interference device) is a very sensitive magnetometer used to measure extremely subtle magnetic fields, based on superconducting loops containing Josephson junctions.
+Josephson junctions	A Josephson junction is a weak link between two superconductors separated by a thin insulating barrier. It allows for the tunnelling of Cooper pairs (pairs of electrons) across the barrier.
+Josephson effect	two Josephson junctions are mounted on a superconducting When a magnetic field is applied perpendicular to the plane of the ring, the current is induced at the two Josephson junctions due to the Josephson effect and leads to the flow of current without application of voltage.
+Josephson juction figure	img(https://www.researchgate.net/publication/285757552/figure/fig7/AS:668521067446285@1536399251771/Color-online-a-Sketch-of-the-single-Josephson-radiation-comb-generator-a-SQUID.png)
+Optical properties
+Luminescence	Emission of light not caused by heat.
+Fluorescence	Immediate emission of light after absorbing a light source.
+Phosphorescence	Delayed emission of light after absorbing a light source.
+Figure showing Phosphorescence and Fluorescence	img(https://www.edinst.com/wp-content/uploads/2018/10/Figure-5-1024x439.png)
+LASER	Light amplification by stimulated emission of radiation
+Spontaneous Emission	Emission by excited atoms without outside stimulus.
+Stimulated emission	Emission by excited atoms with the outside stimulus (external radiation field)
+LASERS classification	
+Based on Medium	Gas Lasers: Use gases (e.g., helium-neon) as the gain medium.; Solid-State Lasers: Employ solid materials (e.g., crystals) as the gain medium.; Liquid Lasers: Use liquid gain media (e.g., dye lasers).
+Based on Operation	Continuous Wave (CW) Lasers: Emit a continuous, uninterrupted beam.; Pulsed Lasers: Produce pulses of laser light with controlled durations.
+Based on Pump Source	Optically Pumped Lasers: The gain medium is pumped by light.; Electrically Pumped Lasers: The gain medium is pumped by electrical current.
+Based on Application	Medical Lasers: Used in surgery, diagnostics, and therapies.; Industrial Lasers: Applied in manufacturing, cutting, welding, and marking.; Research Lasers: Utilized in scientific experiments and studies.; Military Lasers: Employed in defence applications such as rangefinders.
+Based on Wavelength	Infrared Lasers: Emit in the infrared region.; Visible Lasers: Emit visible light.; Ultraviolet Lasers: Emit in the ultraviolet region.
+Based on Configuration	Diode Lasers: Use semiconductor diodes as the gain medium.; Fiber Lasers: Employ optical fibres for the gain medium.; Free Electron Lasers: Use accelerated electrons.; 
+Based on Dopant (for Solid-State Lasers)	Nd: YAG Lasers: Neodymium-doped yttrium aluminium garnet.; Ruby Lasers: Use a ruby crystal doped with chromium.; Er:YAG Lasers: Erbium-doped yttrium aluminum garnet.
+LASER energy lavel	Three-level energy diagram is Ruby laser<br>img(https://minerva.union.edu/newmanj/Physics100/Laser%20Theory/threelevelatom.gif) <br>Four level system is Neodymium laser.<br>img(https://minerva.union.edu/newmanj/Physics100/Laser%20Theory/Four-level%20laser.gif)
+Population Inversion in Lasers	Population inversion is a condition in which more atoms or molecules exist in higher energy states than in lower energy states. In the context of lasers, achieving population inversion is crucial. Normally, particles in a system tend to occupy lower energy states. However, for lasing action, it's necessary to have more particles in higher energy states. This condition sets the stage for stimulated emission, a key process in laser operation.
+Pumping in Lasers	Pumping is the process of supplying energy to a laser medium to achieve and maintain population inversion. This energy input is typically provided by an external source, known as a pump source. The pump source elevates the energy levels of the atoms or molecules in the laser medium, pushing them to higher energy states. There are various methods of pumping, such as optical pumping using light or electrical pumping using an electric current. The goal is to create the conditions necessary for population inversion and stimulate the emission of coherent light, resulting in laser operation.
+LASERS Construction and components	img(https://flash.cardcodegenerator.com/images/laser%20component.png)
+Photocopying Process	Exposure > reflection > Charging > Image formation > toner applicaiton > fusing > output
+Exposer	The original document is placed face down on the glass surface of the photocopier.
+A bright light illuminates the document, and the light is reflected off the white areas and absorbed by the dark areas.
+Reflection	The reflected light carries the image of the document to a light-sensitive drum or belt inside the photocopier.
+Charging	The drum or belt is uniformly charged with static electricity.
+Image Formation (Electrostatic)	The charged drum/belt passes by the illuminated document, and the areas exposed to light lose their charge. The shadow areas (dark parts of the document) retain the static charge.
+Toner Application	Toner, a fine powder with charged particles, is applied to the drum/belt.
+The charged toner particles are attracted to the areas with remaining static charge, forming a visible image on the drum/belt.
+Transfer	A sheet of paper is given an opposite charge and is brought into contact with the drum/belt. The toner is transferred from the drum/belt to the paper.
+Fusing	The paper with the transferred toner passes through heated rollers (fuser unit).
+The heat melts the toner particles, fixing them to the paper.
+Output	The final copy, now fused with toner, is ejected from the photocopier.
+Photocopy machine diagram	img(https://www.cyberphysics.co.uk/graphics/diagrams/static/copy.gif)

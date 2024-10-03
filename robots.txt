@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+
+User-agent: Googlebot
+Allow: /$
+
+User-agent: Bingbot
+Allow: /$
+
+Sitemap: https://flash.cardcodegenerator.com/sitemap.xml

@@ -1,0 +1,29 @@
+We will learn about 	the Essential elements of animals and plants.
+Properties of Metal ion in bioinorganic chemistry 	ligand binding, catalysis, signalling, regulation, sensing, defence, structural support
+Macronutrients	essential in relatively large amounts to the growth and development of living organisms e.g. Mg K Ca Fe For Nice C H O P S
+Macronutrients	essential in amount to the growth and development of living organisms e.g. V Cr Mn (not Fe) Co Ni Cu Zn Mo W Se F I
+Eukeryon 	eu=true, karyon=nucleus
+The eukaryotic cell contains	cytoplasm, nucleus, chloroplast, mitochondrion, endoplasmic reticulum, Golgi apparatus, peroxisome, pump, channel etc
+A eukaryote	an organism consisting of a cell or cells in which the genetic material is DNA in the form of chromosomes contained with a distinct nucleus 
+Eukaryote involves	all living organism except eubacteria, archaea
+Major cation in blood plasma	Na (K in C, potassium is major in the cytoplasm, oppositely, Na is major in blood plasma)
+Amount Inside the animal cell/cytoplasm of K:Na 	0.15M : 0.01M
+Biological function of Na and K 	charge carriers and osmotic pressure balancer
+Na-K or ion pump  	balances cell structure by controlling osmotic pressure by Na and K ion sizeable potential difference
+Blood pressure gets increased if 	Na gets increased in blood plasma or extracellular fluid or K gets decreased in cellular fluid
+A safe amount of Na 	Na should be 10 times lower than that of extracellular fluids
+To control blood pressure 	Na and K ratio should be maintained at a constant
+Role or function of Fe	Oxygen carrier(haemoglobin), Oxygen storage (myoglobin), electron carrier, 
+Role or function of Mg	photosynthesis(chlorophyll), stabilizer for RNA and DNA
+Photosynthesis reaction 	6CO2+6H20=C6H12O6+6O2
+The function of chlorophyll 	absorb photon and pass excitation energy.
+Light is absorbed by chlorophyll as 	there are conjugated polyene in the porphyrin structure.
+Role or function of Mg	It helps to make molecules rigid so that energy can't easily be lost thermally by molecular vibrations, function of chlorophyll
+Function of Zn	1. Carbonic anhydrase enzyme(enzyme of Zn) causes hydration of CO2 and dehydration of bicarbonate (HCO3-). 2. Carboxypeptidase catalyzes the hydrolysis of peptide bonds at the carboxyl end of a peptide chain 
+Carbonic anhydrase enzyme(enzyme of Zn) causes	hydration of CO2 and dehydration of bicarbonate (HCO3-). 
+Carboxypeptidase (an enzyme of Zn) catalyzes	 the hydrolysis of peptide bonds at the carboxyl end of a peptide chain  That means where there is a carboxyl(-COOH) group, the nearest peptide bond will be broken.
+Peptide bond structure	-CONH-
+Simple Mechanism of Na and K pump	Na goes out of the cytoplasm as we know that Na is the greater amount in extracellular fluid and K comes into the cytoplasm as we know that K is the greater amount in the cytoplasm.
+The overall mechanism of ion pump	1. Cytoplasmic Na+ binds to the pump, 2. This binding stimulates phosphorylation by ATP, 3. Phosphorylation causes the protein to change the pump's conformation and expel Na+ to the outside, 4. Extracellular K+ binds to the protein and triggers to release of the phosphate group, 5. Loss of the phosphate restores the pump's or protein's original conformation, 6. K+ is released and Na+ sites become receptive again, the cycle repeats.
+Active transport 	transport occurs from low concentration to high concentration, requires energy, molecules are pumped across the membrane, ATP required
+Na functions	nerve functioning in animals

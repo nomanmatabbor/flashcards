@@ -1,0 +1,129 @@
+Leaning about 	Common synonym words in English
+Happy	Joyful, delighted, content, cheerful
+Big	Large, huge, massive, gigantic; Sentences: Happy: I'm so happy that I passed my exam, Joyful: The children's laughter made the atmosphere in the park feel joyful, Delighted: She was delighted to receive a surprise gift from her friend, Content: After a long day of hiking, he felt content sitting by the campfire, Cheerful: Her cheerful personality brightened up the office on a gloomy Monday morning.
+Smart	Intelligent, clever, sharp, wise; Sentences: Smart: She's known for being smart and always getting straight A's in school, Intelligent: Albert Einstein was an intelligent physicist who revolutionized our understanding of the universe, Clever: His clever solution to the problem saved the company a lot of time and money, Sharp: The detective had a sharp mind and quickly solved the complex case, Wise: As she grew older, she became increasingly wise, offering valuable advice to her family and friends.
+Important	Significant, crucial, vital, essential
+Beautiful	Attractive, lovely, gorgeous, stunning
+Fast	Quick, rapid, swift, speedy
+Difficult	Challenging, hard, demanding, tough
+Easy	Simple, straightforward, uncomplicated, effortless; Sentences: Easy: The exam turned out to be surprisingly easy, and I finished it in no time, Simple: The recipe for homemade soup is simple, with just a few ingredients, Straightforward: The instructions for assembling the furniture were straightforward, and I had no trouble with it, Uncomplicated: The process of renewing my passport was relatively uncomplicated and didn't take much time, Effortless: She made the difficult dance moves look effortless with her grace and skill.
+Angry	Furious, enraged, mad, irate; Sentences: Angry: I was so angry when I found out my car had been towed, Furious: His furious outburst surprised everyone in the room, Enraged: The unfair decision of the referee left the fans utterly enraged, Mad: She got mad at her friend for not keeping her promise, Irate: The customer became irate when their order was delivered late.
+Interesting	Fascinating, intriguing, engaging, captivating
+Use	Utilize, employ, apply, make use of
+Support	Assist, help, aid, back
+Begin	Start, commence, initiate, kick off
+End	Conclude, finish, terminate, wrap up
+Hard	Difficult, tough, challenging, arduous
+Good	Excellent, great, superb, outstanding
+Bad	Terrible, awful, poor, dreadful
+Help	Aid, assist, support, lend a hand
+Rich	Wealthy, affluent, prosperous, well-off
+Poor	Impoverished, needy, destitute, underprivileged
+Love	Adore, cherish, admire, care for
+Weak	Frail, feeble, fragile, vulnerable
+Happy	Joyful, delighted, content, cheerful
+Big	Large, huge, massive, gigantic
+Smart	Intelligent, clever, sharp, wise
+Important	Significant, crucial, vital, essential
+Beautiful	Attractive, lovely, gorgeous, stunning
+Fast	Quick, rapid, swift, speedy
+Difficult	Challenging, hard, demanding, tough
+Easy	Simple, straightforward, uncomplicated, effortless
+Angry	Furious, enraged, mad, irate
+Interesting	Fascinating, intriguing, engaging, captivating
+Use	Utilize, employ, apply, make use of
+Support	Assist, help, aid, back
+Begin	Start, commence, initiate, kick off
+End	Conclude, finish, terminate, wrap up
+Hard	Difficult, tough, challenging, arduous
+Good	Excellent, great, superb, outstanding
+Bad	Terrible, awful, poor, dreadful
+Help	Aid, assist, support, lend a hand
+Rich	Wealthy, affluent, prosperous, well-off
+Poor	Impoverished, needy, destitute, underprivileged
+Love	Adore, cherish, admire, care for
+Weak	Frail, feeble, fragile, vulnerable
+Happy	Joyful, delighted, content, cheerful
+Big	Large, huge, massive, gigantic
+Smart	Intelligent, clever, sharp, wise
+Important	Significant, crucial, vital, essential
+Beautiful	Attractive, lovely, gorgeous, stunning
+Fast	Quick, rapid, swift, speedy
+Difficult	Challenging, hard, demanding, tough
+Easy	Simple, straightforward, uncomplicated, effortless
+Angry	Furious, enraged, mad, irate
+Interesting	Fascinating, intriguing, engaging, captivating
+Use	Utilize, employ, apply, make use of
+Support	Assist, help, aid, back
+Begin	Start, commence, initiate, kick off
+End	Conclude, finish, terminate, wrap up
+Hard	Difficult, tough, challenging, arduous
+Good	Excellent, great, superb, outstanding
+Bad	Terrible, awful, poor, dreadful
+Help	Aid, assist, support, lend a hand
+Rich	Wealthy, affluent, prosperous, well-off
+Poor	Impoverished, needy, destitute, underprivileged
+Love	Adore, cherish, admire, care for
+Weak	Frail, feeble, fragile, vulnerable
+Lonely	Solitary, isolated, desolate
+Clever	Ingenious, sharp-witted, brilliant
+Frequent	Common, regular, habitual
+Unique	Distinct, one-of-a-kind, unparalleled
+Ancient	Antiquated, archaic, historic
+Brave	Courageous, valiant, fearless
+Generous	Benevolent, charitable, altruistic
+Huge	Enormous, colossal, immense
+Lazy	Idle, indolent, slothful
+Mysterious	Enigmatic, cryptic, secretive
+Polite	Courteous, well-mannered, respectful
+Rude	Impolite, discourteous, disrespectful
+Small	Tiny, miniature, minuscule
+Tasty	Delicious, flavorful, appetizing
+Ugly	Unattractive, repulsive, hideous
+Calm	Tranquil, peaceful, serene
+Dull	Boring, uninteresting, monotonous
+Exciting	Thrilling, exhilarating, electrifying
+Gentle	Kind, tender, mild
+Harsh	Severe, stern, rigorous
+Annoy	Irritate, provoke, agitate
+Bright	Radiant, brilliant, luminous
+Cheap	Inexpensive, affordable, economical
+Daring	Adventurous, bold, courageous
+Eager	Enthusiastic, keen, excited
+Fragile	Delicate, breakable, frail
+Gigantic	Massive, colossal, immense
+Helpful	Supportive, accommodating, assisting
+Important	Crucial, vital, indispensable
+Joyful	Jubilant, elated, exuberant
+Kind	Benevolent, compassionate, considerate
+Lively	Energetic, animated, spirited
+Mysterious	Enigmatic, secretive, cryptic
+Noisy	Loud, clamorous, cacophonous
+Ordinary	Common, typical, mundane
+Pleasant	Enjoyable, agreeable, delightful
+Quick	Swift, speedy, rapid
+Reliable	Dependable, trustworthy, consistent
+Sad	Unhappy, sorrowful, melancholy
+Talented	Gifted, skilled, proficient
+Vivid	Bright, colorful, vibrant
+Cautious	Careful, prudent, wary
+Delicious	Tasty, savory, scrumptious
+Energetic	Lively, dynamic, spirited
+Fearless	Brave, courageous, intrepid
+Grateful	Thankful, appreciative, obliged
+Harmful	Destructive, detrimental, injurious
+Incredible	Unbelievable, astonishing, astounding
+Jovial	Cheerful, festive, jolly
+Knowledgeable	Informed, educated, well-informed
+Luminous	Radiant, glowing, brilliant
+Majestic	Grand, magnificent, regal
+Necessary	Essential, required, vital
+Optimistic	Positive, hopeful, confident
+Peaceful	Serene, tranquil, calm
+Resourceful	Inventive, creative, imaginative
+Spectacular	Impressive, breathtaking, phenomenal
+Turbulent	Chaotic, stormy, tempestuous
+Unusual	Rare, unique, extraordinary
+Voracious	Insatiable, ravenous, gluttonous
+Wholesome	Healthy, nourishing, nutritious
+Zealous	Enthusiastic, passionate, fervent
